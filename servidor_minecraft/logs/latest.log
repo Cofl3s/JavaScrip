@@ -992,3 +992,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 03:37:54.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Isn't It Iron Pick]
 [16Apr2025 03:38:06.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
 [16Apr2025 03:38:19.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[16Apr2025 03:38:35.540] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/92677, l='ServerLevel[world]', x=605.06, y=70.00, z=-1045.51] died, message: 'Farmer was slain by Myrmex Worker'
+[16Apr2025 03:39:54.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 03:39:59.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 03:40:12.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 03:40:31.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 03:41:03.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Amateur Archaeologist]
+[16Apr2025 03:41:20.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [The Only Good Bug...]
+[16Apr2025 03:41:31.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[16Apr2025 03:41:54.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Its Like Printing my Own Money!]
+[16Apr2025 03:41:59.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was killed by Marine with Gun
+[16Apr2025 03:42:22.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[16Apr2025 03:45:57.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zzzzzzzzzzz
