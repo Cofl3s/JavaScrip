@@ -1075,3 +1075,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 04:28:21.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> xaero-waypoint:a:A:-216:64:-1937:6:false:0:Internal-overworld-waypoints
 [16Apr2025 04:28:41.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
 [16Apr2025 04:29:10.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 04:29:37.349] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Armorer'/163793, l='ServerLevel[world]', x=-211.07, y=63.00, z=-1944.84] died, message: 'Armorer was killed by cofl3s using Jigoku Tabi'
+[16Apr2025 04:29:37.351] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/164152, l='ServerLevel[world]', x=-210.87, y=63.00, z=-1945.44] died, message: 'Villager was killed by cofl3s using Jigoku Tabi'
+[16Apr2025 04:29:37.352] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/169006, l='ServerLevel[world]', x=-211.14, y=63.00, z=-1950.88] died, message: 'Cleric was killed by cofl3s using Jigoku Tabi'
+[16Apr2025 04:29:37.354] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/163792, l='ServerLevel[world]', x=-214.45, y=64.00, z=-1949.91] died, message: 'Cleric was killed by cofl3s using Jigoku Tabi'
+[16Apr2025 04:29:37.356] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/164148, l='ServerLevel[world]', x=-215.11, y=64.00, z=-1949.64] died, message: 'Butcher was killed by cofl3s using Jigoku Tabi'
+[16Apr2025 04:29:37.358] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/165703, l='ServerLevel[world]', x=-209.96, y=64.00, z=-1945.89] died, message: 'Nitwit was killed by cofl3s using Jigoku Tabi'
+[16Apr2025 04:29:37.359] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/164154, l='ServerLevel[world]', x=-210.99, y=64.00, z=-1951.73] died, message: 'Scribe was killed by cofl3s using Jigoku Tabi'
+[16Apr2025 04:29:40.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 04:29:50.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 04:31:28.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 04:31:36.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 04:32:47.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 04:33:05.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 04:33:11.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 04:33:24.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 04:33:28.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [We do a little trolling...]
+[16Apr2025 04:38:25.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 04:38:55.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 04:39:04.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]

@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-04-16 04:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 03:46:28 +0000"
@@ -1433,6 +1439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-16 04:38:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-04-16 01:51:26 +0000"
@@ -1767,6 +1779,7 @@
     "criteria": {
       "minecraft:desert_hills": "2025-04-16 03:54:04 +0000",
       "minecraft:desert": "2025-04-16 03:40:31 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-16 04:37:52 +0000",
       "minecraft:badlands": "2025-04-16 04:06:44 +0000",
       "minecraft:savanna_plateau": "2025-04-16 02:57:28 +0000",
       "minecraft:beach": "2025-04-16 02:11:55 +0000",
@@ -1901,6 +1914,12 @@
   "mineminenomi:recipes/combat/medic_bag": {
     "criteria": {
       "has_leather": "2025-04-16 01:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-16 04:38:01 +0000"
     },
     "done": true
   },
