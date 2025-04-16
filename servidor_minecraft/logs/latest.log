@@ -1182,3 +1182,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 05:28:16.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
 [16Apr2025 05:29:01.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Dragonslayer]
 [16Apr2025 05:29:03.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 05:31:22.647] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/237944, l='ServerLevel[world]', x=1186.41, y=72.20, z=-2430.08] died, message: 'Villager was slain by Cyclops'
+[16Apr2025 05:33:18.480] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[16Apr2025 05:33:18.514] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[16Apr2025 05:33:18.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[16Apr2025 05:33:18.892] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Wrong location! (73, -151) should be (73, -152), VillagerEntity['Weaponsmith'/239407, l='ServerLevel[world]', x=1179.41, y=70.20, z=-2415.59]
+[16Apr2025 05:33:18.892] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 89ed5aea-f23f-4dd2-9145-47fcc385422f. Existing minecraft:villager#237943, new: minecraft:villager#239407
+[16Apr2025 05:33:32.084] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@730cf880
+[16Apr2025 05:33:32.091] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:50823] logged in with entity id 239848 at (1227.4012952822054, 74.83848384264867, -2398.885976687713)
+[16Apr2025 05:33:32.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[16Apr2025 05:33:32.243] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Wrong location! (73, -152) should be (73, -151), VillagerEntity['Weaponsmith'/239969, l='ServerLevel[world]', x=1180.60, y=72.40, z=-2417.20]
+[16Apr2025 05:37:12.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
