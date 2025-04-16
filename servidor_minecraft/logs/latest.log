@@ -1113,3 +1113,61 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 04:52:03.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
 [16Apr2025 04:53:12.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Poseidon, God of the Seas]
 [16Apr2025 04:58:26.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Diamonds!]
+[16Apr2025 05:01:08.455] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[16Apr2025 05:01:08.507] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[16Apr2025 05:01:08.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 05:01:17.012] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6a255311
+[16Apr2025 05:01:17.017] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:38973] logged in with entity id 211085 at (99.6026064867332, 62.07326434692186, -2244.2738315392403)
+[16Apr2025 05:01:17.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 05:01:47.447] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/211316, l='ServerLevel[world]', x=102.10, y=92.00, z=-2306.62]
+[16Apr2025 05:01:47.447] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/211316, l='ServerLevel[world]', x=102.10, y=92.00, z=-2306.62]
+[16Apr2025 05:03:46.980] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/204642, l='ServerLevel[world]', x=271.31, y=64.00, z=-2472.49] died, message: 'Leatherworker was burnt to a crisp whilst fighting cofl3s'
+[16Apr2025 05:08:42.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 05:08:50.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 05:11:53.566] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=431, y=29, z=-2940} but found not block entity block Block{minecraft:gravel} at location
+[16Apr2025 05:11:53.566] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=431, y=29, z=-2940}
+[16Apr2025 05:11:53.566] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=418, y=27, z=-2938} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 05:11:53.566] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=418, y=27, z=-2938}
+[16Apr2025 05:11:53.566] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=425, y=26, z=-2931} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 05:11:53.566] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=425, y=26, z=-2931}
+[16Apr2025 05:11:53.566] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=420, y=26, z=-2939} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 05:11:53.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=420, y=26, z=-2939}
+[16Apr2025 05:11:53.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=431, y=29, z=-2938} but found not block entity block Block{minecraft:gravel} at location
+[16Apr2025 05:11:53.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=431, y=29, z=-2938}
+[16Apr2025 05:11:53.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=413, y=31, z=-2936} but found not block entity block Block{minecraft:granite} at location
+[16Apr2025 05:11:53.567] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=413, y=31, z=-2936}
+[16Apr2025 05:11:53.672] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=432, y=30, z=-2938} but found not block entity block Block{minecraft:gravel} at location
+[16Apr2025 05:11:53.672] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:gravel} but failed at location BlockPos{x=432, y=30, z=-2938}
+[16Apr2025 05:12:29.556] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=520, y=22, z=-2468} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 05:12:29.557] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=520, y=22, z=-2468}
+[16Apr2025 05:12:29.557] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=518, y=20, z=-2466} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 05:12:29.557] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=518, y=20, z=-2466}
+[16Apr2025 05:13:14.681] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=503, y=21, z=-2429} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 05:13:14.682] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=503, y=21, z=-2429}
+[16Apr2025 05:13:14.682] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=501, y=19, z=-2429} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 05:13:14.682] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=501, y=19, z=-2429}
+[16Apr2025 05:13:14.693] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=520, y=20, z=-2456} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 05:13:14.693] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=520, y=20, z=-2456}
+[16Apr2025 05:13:14.693] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=515, y=20, z=-2450} but found not block entity block Block{minecraft:granite} at location
+[16Apr2025 05:13:14.693] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=515, y=20, z=-2450}
+[16Apr2025 05:13:14.693] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=521, y=20, z=-2463} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 05:13:14.693] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=521, y=20, z=-2463}
+[16Apr2025 05:13:14.693] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=521, y=20, z=-2451} but found not block entity block Block{minecraft:granite} at location
+[16Apr2025 05:13:14.693] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=521, y=20, z=-2451}
+[16Apr2025 05:13:14.694] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=517, y=20, z=-2448} but found not block entity block Block{minecraft:granite} at location
+[16Apr2025 05:13:14.694] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:granite} but failed at location BlockPos{x=517, y=20, z=-2448}
+[16Apr2025 05:13:14.721] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=528, y=26, z=-2454} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 05:13:14.721] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=528, y=26, z=-2454}
+[16Apr2025 05:13:56.387] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/220052, l='ServerLevel[world]', x=244.53, y=65.00, z=-2449.41] died, message: 'Scribe was slain by cofl3s'
+[16Apr2025 05:14:37.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 05:14:39.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 05:14:42.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 05:15:19.229] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/220424, l='ServerLevel[world]', x=256.57, y=63.00, z=-2375.53] died, message: 'Leatherworker was burnt to a crisp whilst fighting cofl3s'
+[16Apr2025 05:15:19.985] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Toolsmith'/220149, l='ServerLevel[world]', x=257.58, y=63.00, z=-2378.94] died, message: 'Toolsmith was burnt to a crisp whilst fighting cofl3s'
+[16Apr2025 05:15:23.730] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/220425, l='ServerLevel[world]', x=263.90, y=63.00, z=-2376.58] died, message: 'Leatherworker was burnt to a crisp whilst fighting cofl3s'
+[16Apr2025 05:16:55.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was blown up by Death Worm
+[16Apr2025 05:17:00.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 05:17:08.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 05:17:16.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 05:17:28.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 05:17:58.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
