@@ -603,6 +603,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "desert": "2025-04-16 05:40:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-16 03:02:33 +0000"
@@ -1159,6 +1165,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-04-16 05:08:32 +0000",
       "minecraft:forest": "2025-04-16 02:01:34 +0000",
+      "minecraft:mountains": "2025-04-16 05:46:05 +0000",
       "minecraft:desert_hills": "2025-04-16 03:40:33 +0000",
       "minecraft:deep_cold_ocean": "2025-04-16 05:08:23 +0000",
       "minecraft:desert": "2025-04-16 03:39:47 +0000",
@@ -1168,6 +1175,7 @@
       "minecraft:beach": "2025-04-16 02:12:23 +0000",
       "minecraft:river": "2025-04-16 02:56:49 +0000",
       "minecraft:lukewarm_ocean": "2025-04-16 04:22:24 +0000",
+      "minecraft:wooded_mountains": "2025-04-16 05:46:08 +0000",
       "minecraft:wooded_hills": "2025-04-16 01:49:28 +0000",
       "minecraft:wooded_badlands_plateau": "2025-04-16 04:16:15 +0000",
       "minecraft:savanna": "2025-04-16 02:04:56 +0000",
@@ -1430,6 +1438,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-16 02:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-16 05:42:53 +0000"
     },
     "done": true
   },
