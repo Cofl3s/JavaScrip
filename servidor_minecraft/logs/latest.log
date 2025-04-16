@@ -1062,3 +1062,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 04:18:15.164] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-880, y=18, z=-1747} but found not block entity block Block{minecraft:stone} at location
 [16Apr2025 04:18:15.165] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-880, y=18, z=-1747}
 [16Apr2025 04:18:49.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Diamonds!]
+[16Apr2025 04:20:37.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Skeleton Pirate
+[16Apr2025 04:20:46.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zzzzzzz
+[16Apr2025 04:21:22.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 04:21:30.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 04:21:48.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 04:23:25.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [My Name is Nobody]
+[16Apr2025 04:24:15.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Skeleton Pirate
+[16Apr2025 04:24:47.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 04:26:14.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Ice Bucket Challenge]
+[16Apr2025 04:26:34.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Isn't It Iron Pick]
+[16Apr2025 04:28:21.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> xaero-waypoint:a:A:-216:64:-1937:6:false:0:Internal-overworld-waypoints
+[16Apr2025 04:28:41.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 04:29:10.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
