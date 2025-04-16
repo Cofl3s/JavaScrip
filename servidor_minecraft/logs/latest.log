@@ -803,3 +803,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 02:37:04.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by Superag_Games
 [16Apr2025 02:37:36.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set Superag_Games's game mode to Survival Mode
 [16Apr2025 02:37:47.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by cofl3s
+[16Apr2025 02:38:57.735] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 was kicked for floating too long!
+[16Apr2025 02:38:57.785] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Flying is not enabled on this server
+[16Apr2025 02:38:57.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[16Apr2025 02:39:08.588] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@13b6b186
+[16Apr2025 02:39:08.592] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.121.87.244:54577] logged in with entity id 25728 at (-188.64252291562184, 65.24918707874468, -103.63010932660933)
+[16Apr2025 02:39:08.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[16Apr2025 02:39:22.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was killed by Superag_Games
+[16Apr2025 02:39:40.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was blown up by Superag_Games
+[16Apr2025 02:40:31.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Naifu2401
+[16Apr2025 02:40:54.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by cofl3s
+[16Apr2025 02:40:59.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was blown up by Superag_Games
+[16Apr2025 02:41:40.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was blown up by Superag_Games
+[16Apr2025 02:41:58.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was blown up by Superag_Games
+[16Apr2025 02:42:29.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was blown up by Superag_Games
+[16Apr2025 02:42:34.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by Marine with Sword
+[16Apr2025 02:42:44.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was blown up by Superag_Games
+[16Apr2025 02:42:59.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kicked cofl3s: Kicked by an operator
+[16Apr2025 02:42:59.638] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Kicked by an operator
+[16Apr2025 02:42:59.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 02:43:20.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Getting an Upgrade]
+[16Apr2025 02:45:08.467] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-262, y=18, z=-754} but found not block entity block Block{minecraft:diorite} at location
+[16Apr2025 02:45:08.467] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:diorite} but failed at location BlockPos{x=-262, y=18, z=-754}
+[16Apr2025 02:46:00.198] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e08e302
+[16Apr2025 02:46:00.202] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:60587] logged in with entity id 35775 at (-159.5, 70.0, -137.5)
+[16Apr2025 02:46:00.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 02:46:48.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made cofl3s a server operator
+[16Apr2025 02:46:52.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nothing changed. The player is not an operator
+[16Apr2025 02:46:55.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made cofl3s no longer a server operator
+[16Apr2025 02:47:07.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 02:47:19.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 02:47:25.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 02:47:40.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Acquire Hardware]
+[16Apr2025 02:47:47.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Isn't It Iron Pick]
+[16Apr2025 02:47:51.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was killed by Marine Bomber
+[16Apr2025 02:47:57.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
