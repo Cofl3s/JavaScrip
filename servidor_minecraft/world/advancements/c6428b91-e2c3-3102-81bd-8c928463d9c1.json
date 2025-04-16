@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2025-04-16 04:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-16 02:02:25 +0000"
@@ -934,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-04-16 04:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-16 02:04:20 +0000"
@@ -1132,6 +1144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-16 04:17:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-16 02:10:46 +0000"
@@ -1195,6 +1213,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-16 02:10:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_feather": "2025-04-16 04:17:35 +0000"
     },
     "done": true
   },
@@ -1592,6 +1616,7 @@
       "minecraft:beach": "2025-04-16 02:12:23 +0000",
       "minecraft:river": "2025-04-16 02:56:49 +0000",
       "minecraft:wooded_hills": "2025-04-16 01:49:28 +0000",
+      "minecraft:wooded_badlands_plateau": "2025-04-16 04:16:15 +0000",
       "minecraft:savanna": "2025-04-16 02:04:56 +0000",
       "minecraft:plains": "2025-04-16 01:59:50 +0000"
     },
@@ -1741,6 +1766,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
+    "criteria": {
+      "has_feather": "2025-04-16 04:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-04-16 02:10:46 +0000"
@@ -1786,6 +1817,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-16 02:02:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu_dodge": {
+    "criteria": {
+      "ex": "2025-04-16 04:17:18 +0000"
     },
     "done": true
   },

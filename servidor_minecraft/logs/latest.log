@@ -1037,3 +1037,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 04:05:26.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
 [16Apr2025 04:06:00.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
 [16Apr2025 04:06:54.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> axolote
+[16Apr2025 04:09:20.492] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-665, y=22, z=-1423} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 04:09:20.492] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-665, y=22, z=-1423}
+[16Apr2025 04:09:20.499] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-667, y=16, z=-1432} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 04:09:20.499] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-667, y=16, z=-1432}
+[16Apr2025 04:10:57.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[16Apr2025 04:11:21.643] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Disconnected
+[16Apr2025 04:11:21.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[16Apr2025 04:15:18.984] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-703, y=15, z=-1459}
+[16Apr2025 04:15:18.985] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-703, y=15, z=-1458}
+[16Apr2025 04:17:03.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [It's an Emu!!!]
+[16Apr2025 04:17:18.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Begun, The Emu War Has]
+[16Apr2025 04:17:18.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [It's an Emu!!!]
+[16Apr2025 04:17:50.675] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-448, y=49, z=-1637} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 04:17:50.676] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-448, y=49, z=-1637}
+[16Apr2025 04:17:50.676] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-448, y=49, z=-1635} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 04:17:50.676] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-448, y=49, z=-1635}
+[16Apr2025 04:17:50.676] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-444, y=52, z=-1636} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 04:17:50.676] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-444, y=52, z=-1636}
+[16Apr2025 04:17:50.676] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-445, y=49, z=-1633} but found not block entity block Block{minecraft:andesite} at location
+[16Apr2025 04:17:50.676] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:andesite} but failed at location BlockPos{x=-445, y=49, z=-1633}
+[16Apr2025 04:17:50.711] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-448, y=49, z=-1629} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 04:17:50.711] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-448, y=49, z=-1629}
+[16Apr2025 04:18:15.164] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-880, y=18, z=-1747} but found not block entity block Block{minecraft:stone} at location
+[16Apr2025 04:18:15.165] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-880, y=18, z=-1747}
+[16Apr2025 04:18:49.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Diamonds!]

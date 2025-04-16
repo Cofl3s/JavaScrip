@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-04-16 04:17:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 03:46:28 +0000"
@@ -290,6 +296,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_upgrade_kit_medium": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 03:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-16 04:14:57 +0000"
     },
     "done": true
   },
@@ -1052,6 +1064,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-16 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-04-16 04:09:51 +0000"
     },
     "done": true
   },
@@ -2056,6 +2074,12 @@
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-16 03:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-04-16 04:14:57 +0000"
     },
     "done": true
   },
