@@ -838,3 +838,127 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 02:47:47.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Isn't It Iron Pick]
 [16Apr2025 02:47:51.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was killed by Marine Bomber
 [16Apr2025 02:47:57.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 02:48:33.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 02:48:38.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[16Apr2025 02:49:44.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Monster Hunter]
+[16Apr2025 02:51:19.495] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/45338, l='ServerLevel[world]', x=119.43, y=63.00, z=-251.52]
+[16Apr2025 02:51:19.495] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/45338, l='ServerLevel[world]', x=119.43, y=63.00, z=-251.52]
+[16Apr2025 02:52:12.104] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 was kicked for floating too long!
+[16Apr2025 02:52:12.155] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Flying is not enabled on this server
+[16Apr2025 02:52:12.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[16Apr2025 02:52:26.143] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@30eebda
+[16Apr2025 02:52:26.147] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.121.87.244:34763] logged in with entity id 47410 at (-272.41498731140064, 74.13721309336337, -1264.459812401746)
+[16Apr2025 02:52:26.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[16Apr2025 02:52:27.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 02:52:29.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 fell from a high place
+[16Apr2025 02:52:44.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[16Apr2025 02:52:50.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 02:53:12.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 02:53:18.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 02:53:26.788] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/49005, l='ServerLevel[world]', x=238.30, y=63.00, z=-373.15]
+[16Apr2025 02:53:26.788] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/49005, l='ServerLevel[world]', x=238.30, y=63.00, z=-373.15]
+[16Apr2025 02:53:26.788] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/49005, l='ServerLevel[world]', x=238.30, y=63.00, z=-373.15]
+[16Apr2025 02:53:26.788] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/49006, l='ServerLevel[world]', x=238.30, y=63.00, z=-373.15]
+[16Apr2025 02:53:26.789] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/49006, l='ServerLevel[world]', x=238.30, y=63.00, z=-373.15]
+[16Apr2025 02:53:26.789] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/49006, l='ServerLevel[world]', x=238.30, y=63.00, z=-373.15]
+[16Apr2025 02:53:31.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 02:54:45.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was blown up by Superag_Games
+[16Apr2025 02:54:49.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[16Apr2025 02:55:24.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 02:55:28.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 02:55:34.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[16Apr2025 02:56:06.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Ghost
+[16Apr2025 02:56:11.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by Ghost
+[16Apr2025 02:56:19.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games was slain by Ghost
+[16Apr2025 02:57:05.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 02:57:10.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 02:57:29.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 02:57:35.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[16Apr2025 03:00:17.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 03:00:21.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 03:01:01.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 03:01:05.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[16Apr2025 03:03:00.991] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/55067, l='ServerLevel[world]', x=191.45, y=68.00, z=-486.67]
+[16Apr2025 03:03:15.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Marine with Sword
+[16Apr2025 03:03:33.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 03:03:39.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 03:04:02.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 03:04:07.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: +300 doriki for Superag_Games]
+[16Apr2025 03:04:16.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[16Apr2025 03:07:55.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> xaero-waypoint:.:.:-30:64:-526:14:false:0:Internal-overworld-waypoints
+[16Apr2025 03:09:26.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 drowned
+[16Apr2025 03:09:57.994] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/61255, l='ServerLevel[world]', x=-45.80, y=63.94, z=-500.22]
+[16Apr2025 03:09:57.995] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['String'/61255, l='ServerLevel[world]', x=-45.80, y=63.94, z=-500.22]
+[16Apr2025 03:10:24.194] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/61590, l='ServerLevel[world]', x=-70.85, y=64.00, z=-494.62]
+[16Apr2025 03:10:24.194] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/61590, l='ServerLevel[world]', x=-70.85, y=64.00, z=-494.62]
+[16Apr2025 03:10:59.391] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/62056, l='ServerLevel[world]', x=-65.72, y=63.00, z=-509.57]
+[16Apr2025 03:10:59.391] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/62056, l='ServerLevel[world]', x=-65.72, y=63.00, z=-509.57]
+[16Apr2025 03:10:59.391] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/62057, l='ServerLevel[world]', x=-65.72, y=63.00, z=-509.57]
+[16Apr2025 03:10:59.392] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/62057, l='ServerLevel[world]', x=-65.72, y=63.00, z=-509.57]
+[16Apr2025 03:11:04.544] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/62106, l='ServerLevel[world]', x=-45.71, y=64.00, z=-493.52]
+[16Apr2025 03:11:04.545] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/62106, l='ServerLevel[world]', x=-45.71, y=64.00, z=-493.52]
+[16Apr2025 03:11:07.289] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/62152, l='ServerLevel[world]', x=10.59, y=62.00, z=-532.80]
+[16Apr2025 03:11:07.289] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/62152, l='ServerLevel[world]', x=10.59, y=62.00, z=-532.80]
+[16Apr2025 03:12:01.039] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/62619, l='ServerLevel[world]', x=-58.90, y=61.00, z=-513.10]
+[16Apr2025 03:12:01.040] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/62619, l='ServerLevel[world]', x=-58.90, y=61.00, z=-513.10]
+[16Apr2025 03:14:16.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 03:14:23.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 03:14:40.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 03:14:43.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[16Apr2025 03:15:24.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Suit Up]
+[16Apr2025 03:16:17.193] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/67426, l='ServerLevel[world]', x=-71.53, y=63.00, z=-519.53]
+[16Apr2025 03:16:17.194] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/67426, l='ServerLevel[world]', x=-71.53, y=63.00, z=-519.53]
+[16Apr2025 03:17:05.293] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/68381, l='ServerLevel[world]', x=16.00, y=64.00, z=-521.52]
+[16Apr2025 03:17:05.293] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/68381, l='ServerLevel[world]', x=16.00, y=64.00, z=-521.52]
+[16Apr2025 03:17:05.294] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/68382, l='ServerLevel[world]', x=16.00, y=64.00, z=-521.52]
+[16Apr2025 03:17:05.294] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bone'/68382, l='ServerLevel[world]', x=16.00, y=64.00, z=-521.52]
+[16Apr2025 03:17:28.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has completed the challenge [Flowers of the Savanna]
+[16Apr2025 03:17:51.345] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/69402, l='ServerLevel[world]', x=40.97, y=64.00, z=-506.03]
+[16Apr2025 03:17:57.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s fell from a high place
+[16Apr2025 03:18:06.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> xaero-waypoint:.:.:-67:63:-507:4:false:0:Internal-overworld-waypoints
+[16Apr2025 03:18:18.816] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 03:18:18.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 03:19:47.852] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@270e9f5f
+[16Apr2025 03:19:47.858] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:51235] logged in with entity id 72095 at (-150.5, 69.0, -128.5)
+[16Apr2025 03:19:47.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 03:20:02.949] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 03:20:02.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 03:20:25.549] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5aa7a937
+[16Apr2025 03:20:25.553] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:58489] logged in with entity id 73373 at (-150.5, 69.0, -128.5)
+[16Apr2025 03:20:25.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 03:20:40.654] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 03:20:40.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 03:20:59.749] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@15197d97
+[16Apr2025 03:20:59.753] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:59955] logged in with entity id 74097 at (-150.5, 69.0, -128.5)
+[16Apr2025 03:20:59.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 03:21:14.846] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 03:21:14.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 03:21:25.950] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@300c9477
+[16Apr2025 03:21:25.954] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:44377] logged in with entity id 74752 at (-150.5, 69.0, -128.5)
+[16Apr2025 03:21:25.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 03:21:41.053] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 03:21:41.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 03:22:01.744] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4301026e
+[16Apr2025 03:22:01.748] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:57097] logged in with entity id 75473 at (-150.5, 69.0, -128.5)
+[16Apr2025 03:22:01.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 03:22:16.854] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 03:22:16.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 03:22:39.645] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4526cc3b
+[16Apr2025 03:22:39.649] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:42881] logged in with entity id 76274 at (-150.5, 69.0, -128.5)
+[16Apr2025 03:22:39.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 03:22:54.748] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 03:22:54.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 03:26:05.142] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7c2a70b0
+[16Apr2025 03:26:05.146] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:52751] logged in with entity id 81950 at (-150.5, 69.0, -128.5)
+[16Apr2025 03:26:05.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 03:26:36.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> xaero-waypoint:gui.xaero-deathpoint:D:-10:15:-514:0:false:0:Internal-overworld-waypoints
+[16Apr2025 03:26:50.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Chest Slayer]
+[16Apr2025 03:26:51.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Amateur Archaeologist]
+[16Apr2025 03:27:06.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games was killed by Marine Sniper
+[16Apr2025 03:27:23.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 03:27:35.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to -64.5, 43.5, -535.5]
+[16Apr2025 03:27:40.525] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-162, y=68, z=-130}
+[16Apr2025 03:27:40.576] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-163, y=67, z=-130}
+[16Apr2025 03:27:40.644] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-163, y=67, z=-129}
+[16Apr2025 03:27:45.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 03:27:53.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
