@@ -239,7 +239,8 @@
       "porkchop": "2025-04-16 02:05:38 +0000",
       "apple": "2025-04-16 02:11:20 +0000",
       "mutton": "2025-04-16 02:05:06 +0000",
-      "rotten_flesh": "2025-04-16 02:12:58 +0000"
+      "rotten_flesh": "2025-04-16 02:12:58 +0000",
+      "enchanted_golden_apple": "2025-04-16 02:31:54 +0000"
     },
     "done": false
   },
@@ -1357,6 +1358,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-16 02:02:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-16 02:31:49 +0000"
     },
     "done": true
   },

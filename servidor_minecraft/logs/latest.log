@@ -753,3 +753,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 02:27:32.624] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-160, y=68, z=-150} BlockPos{x=-160, y=71, z=-139}
 [16Apr2025 02:27:38.492] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Disconnected
 [16Apr2025 02:27:38.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 02:28:53.185] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@22f50a
+[16Apr2025 02:28:53.187] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.121.87.244:58151] logged in with entity id 21265 at (-158.5, 70.0, -129.5)
+[16Apr2025 02:28:53.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[16Apr2025 02:28:53.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Ice and Fire]
+[16Apr2025 02:29:17.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 02:29:34.190] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3b88e60c
+[16Apr2025 02:29:34.194] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:46727] logged in with entity id 21718 at (-159.30000001192093, 70.0, -137.69999998807907)
+[16Apr2025 02:29:34.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 02:29:35.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to Naifu2401]
+[16Apr2025 02:29:43.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 02:29:52.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 02:30:07.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 02:30:33.917] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-160, y=71, z=-139}
+[16Apr2025 02:30:46.922] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-156, y=70, z=-128}
+[16Apr2025 02:30:51.116] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-162, y=69, z=-125}
+[16Apr2025 02:30:53.137] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-166, y=69, z=-127}
+[16Apr2025 02:30:53.164] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-166, y=69, z=-128}
+[16Apr2025 02:30:53.420] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-160, y=69, z=-124}
+[16Apr2025 02:30:53.472] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-160, y=69, z=-125}
+[16Apr2025 02:31:35.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 02:31:43.418] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=69, z=-129}
+[16Apr2025 02:31:43.522] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-163, y=69, z=-128}
+[16Apr2025 02:31:43.571] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-162, y=69, z=-128}
+[16Apr2025 02:31:50.515] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-161, y=68, z=-122}
+[16Apr2025 02:31:58.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 02:32:08.763] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-170, y=71, z=-127}
+[16Apr2025 02:32:24.886] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-170, y=69, z=-127}
+[16Apr2025 02:32:42.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[16Apr2025 02:33:55.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Stone Age]
+[16Apr2025 02:34:02.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Zombie
+[16Apr2025 02:34:22.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 02:34:26.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 02:34:53.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 02:36:02.568] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-160, y=61, z=-100} BlockPos{x=-168, y=69, z=-126}
+[16Apr2025 02:36:02.818] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-160, y=61, z=-100} BlockPos{x=-168, y=69, z=-126}
+[16Apr2025 02:36:09.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was killed by cofl3s using Bari Bari no Pistol
+[16Apr2025 02:36:09.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 died
+[16Apr2025 02:36:24.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 02:36:28.489] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-167, y=70, z=-126}
+[16Apr2025 02:36:28.739] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-167, y=70, z=-126}
+[16Apr2025 02:36:28.938] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-167, y=70, z=-126}
+[16Apr2025 02:36:29.089] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-167, y=70, z=-126}
+[16Apr2025 02:36:29.268] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-167, y=70, z=-126}
+[16Apr2025 02:36:29.465] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-167, y=70, z=-126}
+[16Apr2025 02:36:29.617] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-167, y=70, z=-126}
+[16Apr2025 02:36:38.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[16Apr2025 02:37:00.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Spider
+[16Apr2025 02:37:04.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by Superag_Games
+[16Apr2025 02:37:36.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set Superag_Games's game mode to Survival Mode
+[16Apr2025 02:37:47.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by cofl3s
