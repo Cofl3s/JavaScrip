@@ -1004,3 +1004,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 03:41:59.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was killed by Marine with Gun
 [16Apr2025 03:42:22.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
 [16Apr2025 03:45:57.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zzzzzzzzzzz
+[16Apr2025 03:49:32.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [No Step on Snake]
+[16Apr2025 03:49:36.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [No Step on Snake]
+[16Apr2025 03:50:54.847] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[16Apr2025 03:50:54.895] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[16Apr2025 03:50:54.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[16Apr2025 03:51:08.392] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@64040dd
+[16Apr2025 03:51:08.397] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:52247] logged in with entity id 102141 at (-809.3186327813125, 87.44882874290917, -848.4979604649012)
+[16Apr2025 03:51:08.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[16Apr2025 03:54:38.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was doomed to fall by Death Worm
+[16Apr2025 03:54:47.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by Death Worm
+[16Apr2025 03:54:56.100] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[16Apr2025 03:54:56.157] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[16Apr2025 03:54:56.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[16Apr2025 03:55:05.170] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-154, y=67, z=-118}
+[16Apr2025 03:55:07.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nothing changed. The player already is an operator
+[16Apr2025 03:55:22.949] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@190fff75
+[16Apr2025 03:55:22.954] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:52173] logged in with entity id 110825 at (-890.0734300553374, 84.32778428298786, -1021.3508104349196)
+[16Apr2025 03:55:22.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[16Apr2025 03:55:29.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 03:55:55.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 03:56:04.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[16Apr2025 03:56:36.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set the time to 1000]
+[16Apr2025 03:58:12.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by Myrmex Soldier
+[16Apr2025 03:58:17.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]

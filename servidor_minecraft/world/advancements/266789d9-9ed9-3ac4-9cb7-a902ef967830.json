@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-16 03:52:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/spear_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 03:46:28 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 03:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-16 03:52:33 +0000"
     },
     "done": true
   },
@@ -439,6 +451,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-04-16 03:49:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-16 02:09:44 +0000"
@@ -460,6 +478,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-04-16 01:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-04-16 03:52:33 +0000"
     },
     "done": true
   },
@@ -604,6 +628,12 @@
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-16 03:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-16 03:52:00 +0000"
     },
     "done": true
   },
@@ -849,6 +879,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-16 03:52:10 +0000",
       "minecraft:skeleton": "2025-04-16 02:36:32 +0000",
       "minecraft:spider": "2025-04-16 02:13:57 +0000",
       "minecraft:creeper": "2025-04-16 02:16:33 +0000",
@@ -1716,6 +1747,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:desert_hills": "2025-04-16 03:54:04 +0000",
       "minecraft:desert": "2025-04-16 03:40:31 +0000",
       "minecraft:savanna_plateau": "2025-04-16 02:57:28 +0000",
       "minecraft:beach": "2025-04-16 02:11:55 +0000",
