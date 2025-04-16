@@ -660,3 +660,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 01:55:08.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
 [16Apr2025 01:55:15.184] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Disconnected
 [16Apr2025 01:55:15.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[16Apr2025 01:58:15.894] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6cf8eeff[id=<null>,name=Superag_Games,properties={},legacy=false] (/127.118.103.103:59143) lost connection: Disconnected
+[16Apr2025 01:58:21.185] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3947e745
+[16Apr2025 01:58:21.189] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:55937] logged in with entity id 2115 at (-161.5, 69.0, -123.5)
+[16Apr2025 01:58:21.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[16Apr2025 01:58:30.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Getting an Upgrade]
+[16Apr2025 01:59:21.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 01:59:26.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 01:59:30.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set the time to 1000]
+[16Apr2025 02:00:20.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 02:00:50.685] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/3081, l='ServerLevel[world]', x=-246.26, y=64.00, z=-206.65]
+[16Apr2025 02:00:50.685] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/3081, l='ServerLevel[world]', x=-246.26, y=64.00, z=-206.65]
+[16Apr2025 02:02:25.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Stone Age]
+[16Apr2025 02:04:02.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Getting an Upgrade]
+[16Apr2025 02:07:27.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games was killed by cofl3s using Kyubi Rush
+[16Apr2025 02:07:27.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games died
+[16Apr2025 02:07:37.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to cofl3s]

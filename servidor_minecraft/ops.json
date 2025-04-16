@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "c6428b91-e2c3-3102-81bd-8c928463d9c1",
+    "name": "Superag_Games",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
