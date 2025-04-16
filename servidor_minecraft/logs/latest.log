@@ -962,3 +962,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 03:27:40.644] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-163, y=67, z=-129}
 [16Apr2025 03:27:45.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
 [16Apr2025 03:27:53.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 03:28:32.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 03:28:51.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by cofl3s
+[16Apr2025 03:28:51.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games was slain by cofl3s
+[16Apr2025 03:28:54.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Amateur Archaeologist]
+[16Apr2025 03:28:59.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to cofl3s]
+[16Apr2025 03:29:22.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[16Apr2025 03:29:26.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s died while trying to eat multiple Devil Fruits
+[16Apr2025 03:29:46.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: +1500 doriki for Superag_Games]
+[16Apr2025 03:29:52.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: +400 doriki for Superag_Games]
+[16Apr2025 03:29:57.339] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/84051, l='ServerLevel[world]', x=-95.76, y=64.00, z=-522.50]
+[16Apr2025 03:29:57.339] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/84051, l='ServerLevel[world]', x=-95.76, y=64.00, z=-522.50]
+[16Apr2025 03:29:57.339] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/84051, l='ServerLevel[world]', x=-95.76, y=64.00, z=-522.50]
+[16Apr2025 03:30:01.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 03:30:12.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[16Apr2025 03:30:24.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Sweet Dreams]
+[16Apr2025 03:30:30.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Sweet Dreams]
+[16Apr2025 03:30:32.835] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/84129, l='ServerLevel[world]', x=-89.55, y=64.00, z=-564.42]
+[16Apr2025 03:30:32.835] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/84129, l='ServerLevel[world]', x=-89.55, y=64.00, z=-564.42]
+[16Apr2025 03:30:32.835] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/84129, l='ServerLevel[world]', x=-89.55, y=64.00, z=-564.42]
+[16Apr2025 03:30:34.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Sweet Dreams]
+[16Apr2025 03:32:28.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Brawler Trainer
+[16Apr2025 03:34:18.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Not Today, Thank You]
+[16Apr2025 03:34:25.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s fell from a high place
+[16Apr2025 03:34:57.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported cofl3s to Superag_Games
+[16Apr2025 03:37:47.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Acquire Hardware]
+[16Apr2025 03:37:49.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 03:37:54.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 03:37:54.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Isn't It Iron Pick]
+[16Apr2025 03:38:06.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 03:38:19.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
