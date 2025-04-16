@@ -693,3 +693,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 02:17:51.488] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
 [16Apr2025 02:17:51.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
 [16Apr2025 02:17:51.536] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[16Apr2025 02:18:04.448] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@35fdb138
+[16Apr2025 02:18:04.454] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:50981] logged in with entity id 14545 at (-253.42198316523204, 65.0, -222.65063905110387)
+[16Apr2025 02:18:04.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 02:18:10.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 02:18:30.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was shot by Skeleton
+[16Apr2025 02:18:52.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 02:19:08.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 02:19:17.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was killed by Marine Sniper
+[16Apr2025 02:19:26.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 02:19:30.236] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[16Apr2025 02:19:30.288] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[16Apr2025 02:19:30.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 02:19:39.341] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1770c916
+[16Apr2025 02:19:39.348] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:47577] logged in with entity id 15441 at (-273.28694633161865, 64.0, -243.056670603455)
+[16Apr2025 02:19:39.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 02:19:46.486] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Disconnected
+[16Apr2025 02:19:46.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 02:21:12.189] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@d286985
+[16Apr2025 02:21:12.195] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:54453] logged in with entity id 16245 at (-273.28694633161865, 64.0, -243.056670603455)
+[16Apr2025 02:21:12.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 02:21:27.289] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 02:21:27.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 02:21:34.489] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d3fe0c9
+[16Apr2025 02:21:34.494] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:41641] logged in with entity id 16447 at (-273.28694633161865, 64.0, -243.056670603455)
+[16Apr2025 02:21:34.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 02:22:22.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 02:22:27.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was slain by Marine with Sword
+[16Apr2025 02:22:49.738] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 02:22:49.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 02:23:21.236] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6a29ad2d
+[16Apr2025 02:23:21.241] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:56265] logged in with entity id 17560 at (-188.57108275907459, 62.64063707082681, -169.89073648668767)
+[16Apr2025 02:23:21.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 02:23:22.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to cofl3s]
+[16Apr2025 02:23:52.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 02:25:03.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s was blown up by Marine Bomber
+[16Apr2025 02:25:21.536] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 02:25:21.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 02:25:36.634] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@79cc37e0[id=<null>,name=cofl3s,properties={},legacy=false] (/127.116.130.138:56961) lost connection: Disconnected
+[16Apr2025 02:25:42.035] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@22dc656c
+[16Apr2025 02:25:42.039] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:59137] logged in with entity id 18864 at (-166.69482850992034, 68.1212968405392, -151.69999998807907)
+[16Apr2025 02:25:42.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 02:25:57.135] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 02:25:57.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 02:26:12.687] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3f73d091
+[16Apr2025 02:26:12.692] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:44277] logged in with entity id 19033 at (-166.69482850992034, 66.0, -151.69999998807907)
+[16Apr2025 02:26:12.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 02:26:27.790] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[16Apr2025 02:26:27.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[16Apr2025 02:26:42.635] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2f1504a8
+[16Apr2025 02:26:42.639] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:43427] logged in with entity id 19263 at (-166.69482850992034, 66.0, -151.69999998807907)
+[16Apr2025 02:26:42.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 02:27:27.725] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-160, y=68, z=-150} BlockPos{x=-160, y=71, z=-139}
+[16Apr2025 02:27:29.089] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-160, y=68, z=-150} BlockPos{x=-161, y=69, z=-138}
+[16Apr2025 02:27:29.924] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-160, y=68, z=-150} BlockPos{x=-164, y=69, z=-139}
+[16Apr2025 02:27:30.141] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-160, y=68, z=-150} BlockPos{x=-165, y=69, z=-139}
+[16Apr2025 02:27:30.394] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-160, y=68, z=-150} BlockPos{x=-166, y=69, z=-140}
+[16Apr2025 02:27:32.275] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-160, y=68, z=-150} BlockPos{x=-160, y=72, z=-139}
+[16Apr2025 02:27:32.624] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-160, y=68, z=-150} BlockPos{x=-160, y=71, z=-139}
+[16Apr2025 02:27:38.492] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Disconnected
+[16Apr2025 02:27:38.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
