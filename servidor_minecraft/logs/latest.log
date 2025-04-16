@@ -1,0 +1,662 @@
+[16Apr2025 01:47:31.132] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[16Apr2025 01:47:31.135] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[16Apr2025 01:47:31.426] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[16Apr2025 01:47:31.491] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/JavaScrip/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[16Apr2025 01:47:32.081] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Apr2025 01:47:32.168] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Apr2025 01:47:32.173] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Apr2025 01:47:32.179] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[16Apr2025 01:47:33.562] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[16Apr2025 01:47:33.915] [main/WARN] [mixin/]: Reference map 'eureka-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Apr2025 01:47:35.251] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/actors/BlockBreakingKineticTileEntity (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:35.252] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.actors.BlockBreakingKineticTileEntity was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlockBreakingKineticTileEntity
+[16Apr2025 01:47:35.254] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/millstone/MillstoneBlock (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:35.254] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.millstone.MillstoneBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[16Apr2025 01:47:35.256] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/processing/BasinBlock (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:35.257] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.processing.BasinBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[16Apr2025 01:47:35.258] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/block/chute/AbstractChuteBlock (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:35.258] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.block.chute.AbstractChuteBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[16Apr2025 01:47:35.260] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/ContraptionRenderInfo (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:35.261] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.ContraptionRenderInfo was not found valkyrienskies-forge.mixins.json:compat.create.MixinContraptionRenderInfo
+[16Apr2025 01:47:35.263] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/crusher/CrushingWheelBlock (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:35.263] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.crusher.CrushingWheelBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinCrushingWheelBlock
+[16Apr2025 01:47:35.265] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/RenderedContraption (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:35.265] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.RenderedContraption was not found valkyrienskies-forge.mixins.json:compat.create.MixinRenderedContraption
+[16Apr2025 01:47:35.266] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/material/MaterialManager (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:35.267] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.material.MaterialManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MaterialManagerAccessor
+[16Apr2025 01:47:35.269] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceManager (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:35.269] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceManager
+[16Apr2025 01:47:35.270] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceWorld (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:35.271] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceWorld was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceWorld
+[16Apr2025 01:47:35.272] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/tile/TileInstanceManager (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:35.272] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.tile.TileInstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinTileInstanceManager
+[16Apr2025 01:47:35.273] [main/WARN] [mixin/]: Error loading class: cofh/core/tileentity/TileCoFH (java.lang.ClassNotFoundException: null)
+[16Apr2025 01:47:42.112] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16Apr2025 01:47:42.121] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16Apr2025 01:47:42.130] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16Apr2025 01:47:42.131] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[16Apr2025 01:47:42.799] [modloading-worker-3/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[16Apr2025 01:47:43.285] [modloading-worker-1/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[16Apr2025 01:47:43.288] [modloading-worker-1/INFO] [Spartan Weaponry/]: Initialising API! Version: 6
+[16Apr2025 01:47:45.740] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[16Apr2025 01:47:45.741] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[16Apr2025 01:47:45.940] [modloading-worker-0/INFO] [expandability/]: ExpandAbility here, who dis?
+[16Apr2025 01:47:47.285] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[16Apr2025 01:47:47.286] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[16Apr2025 01:47:47.286] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[16Apr2025 01:47:47.759] [modloading-worker-3/INFO] [STDOUT/]: [org.valkyrienskies.core.config.VSConfigClass$Companion:registerNetworkHandlers:199]: registering network handlers
+[16Apr2025 01:47:48.450] [main/INFO] [Spartan Shields/]: Registering Items
+[16Apr2025 01:47:48.451] [main/INFO] [Spartan Shields/]: Registered Items successfully!
+[16Apr2025 01:47:48.552] [main/INFO] [Spartan Weaponry/]: Registering items...
+[16Apr2025 01:47:48.559] [main/INFO] [Spartan Weaponry/]: Items Registered!
+[16Apr2025 01:47:48.728] [main/INFO] [Spartan Shields/]: Registering Enchantments
+[16Apr2025 01:47:48.728] [main/INFO] [Spartan Shields/]: Registered Enchantments successfully!
+[16Apr2025 01:47:48.979] [main/INFO] [Spartan Weaponry/]: Registering Entities
+[16Apr2025 01:47:49.255] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[16Apr2025 01:47:49.261] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[16Apr2025 01:47:49.524] [modloading-worker-2/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[16Apr2025 01:47:49.667] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[16Apr2025 01:47:49.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[16Apr2025 01:47:50.259] [modloading-worker-2/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[16Apr2025 01:47:50.265] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[16Apr2025 01:47:50.955] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[16Apr2025 01:47:50.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Apr2025 01:47:51.159] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[16Apr2025 01:47:51.159] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at http://olafkeijsers.net/fastleafdecay-update.json
+[16Apr2025 01:47:51.370] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: UP_TO_DATE Current: v25.2 Target: null
+[16Apr2025 01:47:54.288] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Apr2025 01:47:55.036] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16Apr2025 01:47:55.038] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Apr2025 01:47:55.046] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Apr2025 01:47:55.048] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16Apr2025 01:47:55.049] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Apr2025 01:47:55.066] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, mine-mine-no-mi-1.16.5-0.9.5.jar, motrs-BETA-0.0.1.jar, Pirates_And_Looters_Kraken_Update.jar, jei-1.16.5-7.8.0.1009.jar, betterleveling-1.16.5-0.6.2.jar, torohealth-1.16.4-forge-4.jar, curios-forge-1.16.5-4.0.8.1.jar, SpartanShields-1.16.5-2.1.2.jar, Xaeros_Minimap_25.2.0_Forge_1.16.5.jar, gravestone-1.16.5-1.0.6.jar, collective-1.16.5-5.49.jar, MoreEnchantments_MC_1.16.4_Vers.1.4.1.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, Artifacts-1.16.5-2.10.5.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, SpartanWeaponry-1.16.5-2.2.0-rc-2.jar, relics-1.16.5-0.3.4.4.jar, architectury-419699-3857643.jar, iceandfire-2.1.12-1.16.5.jar, EffectEnchantments_MC_1.16.4_Vers.1.1.5.jar, cloth-config-forge-4.16.91.jar, carryon-1.16.5-1.15.6.24.jar, AncientGuns_3.2_1.16.4.jar, valkyrienskies-116-2.0.0-alpha6.jar, eureka-1.0.0-alpha7.jar, FastLeafDecay-v25.2.jar, expandability-2.0.1-forge.jar, valhelsia_core-16.0.15.jar, valhelsia_structures-1.16.5-0.1.6.jar, geckolib-forge-1.16.5-3.0.106.jar, replantingcrops_1.16.5-4.1.jar
+[16Apr2025 01:47:56.990] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:wettingefpt
+com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:wetemptyflintlockpistol'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:23) ~[?:?]
+	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:11) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[16Apr2025 01:47:57.023] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:steelnuggetcook
+com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:steelslag'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:23) ~[?:?]
+	at net.minecraft.item.crafting.CookingRecipeSerializer.func_199425_a_(CookingRecipeSerializer.java:11) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[16Apr2025 01:47:57.029] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:largebarrelrecipe
+com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:barrelcore'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[16Apr2025 01:47:57.061] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:flintlockpistolrechargue
+com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:muzzleloadedbullet'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[16Apr2025 01:47:57.082] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:flintlockpepperboxrecipe1
+com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:smallbarrel'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[16Apr2025 01:47:57.099] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:smallbarrelrecipe
+com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:barrelcore'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[16Apr2025 01:47:57.132] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:barrelformercreation
+com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:barrelformer'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:281) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[16Apr2025 01:47:57.136] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:fpr1ct1b
+com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:chargedflintlockpepperbox'
+	at net.minecraft.item.crafting.Ingredient.lambda$valueFromJson$11(Ingredient.java:216) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:215) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199568_a(ShapelessRecipe.java:95) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:80) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[16Apr2025 01:47:57.143] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:steelcompat
+com.google.gson.JsonSyntaxException: Unknown item tag 'minecraft:ingot/steel'
+	at net.minecraft.item.crafting.Ingredient.func_199803_a(Ingredient.java:223) ~[?:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:141) ~[forge:?]
+	at net.minecraft.item.crafting.Ingredient.func_199802_a(Ingredient.java:189) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_192408_a(ShapedRecipe.java:252) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.access$000(ShapedRecipe.java:24) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:276) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe$Serializer.func_199425_a_(ShapedRecipe.java:272) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[16Apr2025 01:47:57.158] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe ancient_guns:fulminantrecipe
+com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
+	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.item.crafting.ShapedRecipe.func_199798_a(ShapedRecipe.java:261) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:86) ~[?:?]
+	at net.minecraft.item.crafting.ShapelessRecipe$Serializer.func_199425_a_(ShapelessRecipe.java:76) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_215377_a(RecipeManager.java:141) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:61) ~[?:?]
+	at net.minecraft.item.crafting.RecipeManager.func_212853_a_(RecipeManager.java:38) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[16Apr2025 01:47:57.161] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 9 recipes
+[16Apr2025 01:47:57.940] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[16Apr2025 01:47:58.567] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[16Apr2025 01:47:58.610] [Worker-Main-5/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[16Apr2025 01:47:58.706] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16Apr2025 01:47:58.707] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16Apr2025 01:47:58.707] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16Apr2025 01:47:58.707] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16Apr2025 01:47:58.707] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[16Apr2025 01:47:58.707] [Worker-Main-5/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {piratesandlootersreborn:entities/kraken}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[16Apr2025 01:47:59.039] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1686 advancements
+[16Apr2025 01:48:00.048] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, forge:ores/metal, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, betterleveling:treasure_blocks, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, forge:sand, minecraft:wall_corals, iceandfire:myrmex_harvestables, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, forge:ores/gem, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
+[16Apr2025 01:48:00.053] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, forge:ores/metal, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, betterleveling:treasure_blocks, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, forge:sand, minecraft:wall_corals, iceandfire:myrmex_harvestables, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, forge:ores/gem, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
+[16Apr2025 01:48:01.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[16Apr2025 01:48:01.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Apr2025 01:48:01.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Apr2025 01:48:01.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Apr2025 01:48:01.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Apr2025 01:48:01.913] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[16Apr2025 01:48:02.052] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Apr2025 01:48:02.052] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Apr2025 01:48:02.052] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Apr2025 01:48:02.053] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Apr2025 01:48:02.151] [Server thread/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, forge:ores/metal, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, betterleveling:treasure_blocks, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, forge:sand, minecraft:wall_corals, iceandfire:myrmex_harvestables, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, forge:ores/gem, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
+[16Apr2025 01:48:02.156] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, forge:ores/metal, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, betterleveling:treasure_blocks, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, forge:sand, minecraft:wall_corals, iceandfire:myrmex_harvestables, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, forge:ores/gem, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
+[16Apr2025 01:48:02.163] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, valhelsia_structures:jars, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, alexsmobs:roadrunner_spawns, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:ores/redstone, minecraft:warped_stems, forge:glass/red, forge:storage_blocks/iron, forge:glass_panes/brown, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, forge:braziers, forge:blocks/steel_block, alexsmobs:drops_bananas, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:unstable_bottom_center, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, forge:obsidian, forge:enderman_place_on_blacklist, alexsmobs:kangaroo_spawns, forge:ores/metal, alexsmobs:seal_digables, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, alexsmobs:mimic_octopus_spawns, forge:ores/coal, minecraft:hoglin_repellents, minecraft:fire, minecraft:base_stone_nether, minecraft:wall_signs, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, mineminenomi:kairoseki, forge:sand/colorless, minecraft:trapdoors, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, minecraft:soul_speed_blocks, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:stained_glass_panes, mineminenomi:nophase, valhelsia_structures:colored_jars, minecraft:underwater_bonemeals, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, minecraft:sand, forge:end_stones, forge:glass/brown, minecraft:logs_that_burn, forge:fences/wooden, forge:glass/gray, minecraft:campfires, forge:storage_blocks, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:storage_blocks/redstone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:stone, betterleveling:treasure_blocks, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, mineminenomi:rusty, gravestone:grave_replaceable, minecraft:beacon_base_blocks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, valhelsia_structures:cut_posts, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, forge:sand, minecraft:wall_corals, iceandfire:myrmex_harvestables, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, minecraft:oak_logs, forge:ores/gold, forge:barrels, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, vs_eureka:ship_helms, forge:glass/orange, forge:glass_panes/lime, vs_eureka:balloons, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, forge:ores/gem, minecraft:corals, minecraft:buttons, minecraft:flowers, alexsmobs:void_worm_breakables, minecraft:planks, forge:cobblestone, minecraft:rails, forge:barrels/wooden, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, forge:storage_blocks/gold, minecraft:fence_gates, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:tall_flowers, forge:fences, minecraft:stone_pressure_plates, valhelsia_structures:non_flammable_posts, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, valhelsia_structures:posts, forge:glass_panes/pink, forge:netherrack]
+[16Apr2025 01:48:02.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Apr2025 01:48:03.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Apr2025 01:48:03.831] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[16Apr2025 01:48:04.932] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Apr2025 01:48:04.933] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Apr2025 01:48:04.933] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Apr2025 01:48:04.933] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Apr2025 01:48:05.270] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[16Apr2025 01:48:08.533] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Apr2025 01:48:08.657] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:08.672] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:08.673] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:08.687] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:08.691] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:08.691] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:08.761] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:09.264] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:09.534] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Apr2025 01:48:09.762] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:10.325] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:10.537] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Apr2025 01:48:10.766] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:11.317] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:11.540] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Apr2025 01:48:11.765] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[16Apr2025 01:48:12.261] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[16Apr2025 01:48:12.540] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Apr2025 01:48:12.764] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[16Apr2025 01:48:13.269] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[16Apr2025 01:48:13.541] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Apr2025 01:48:13.763] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[16Apr2025 01:48:14.262] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
+[16Apr2025 01:48:14.476] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 11216 ms
+[16Apr2025 01:48:14.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.370s)! For help, type "help"
+[16Apr2025 01:48:14.543] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[16Apr2025 01:48:14.545] [Server thread/INFO] [Spartan Weaponry/]: Starting up Server for Spartan Weaponry!
+[16Apr2025 01:48:14.574] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[16Apr2025 01:48:14.575] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[16Apr2025 01:49:27.798] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@32e5db0b
+[16Apr2025 01:49:27.810] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:40623] logged in with entity id 155 at (-161.5, 69.0, -123.5)
+[16Apr2025 01:49:27.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[16Apr2025 01:49:28.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Ice and Fire]
+[16Apr2025 01:49:34.443] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Disconnected
+[16Apr2025 01:49:34.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[16Apr2025 01:50:51.984] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@232e2db5
+[16Apr2025 01:50:51.992] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:38499] logged in with entity id 363 at (-161.5, 69.0, -123.5)
+[16Apr2025 01:50:51.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[16Apr2025 01:50:58.335] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Disconnected
+[16Apr2025 01:50:58.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[16Apr2025 01:51:26.578] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42777561
+[16Apr2025 01:51:26.584] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:46625] logged in with entity id 396 at (-163.5, 69.0, -121.5)
+[16Apr2025 01:51:26.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[16Apr2025 01:51:26.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Ice and Fire]
+[16Apr2025 01:51:53.436] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4e77003d
+[16Apr2025 01:51:53.442] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:40273] logged in with entity id 537 at (-161.5, 69.0, -123.5)
+[16Apr2025 01:51:53.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[16Apr2025 01:51:59.639] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Disconnected
+[16Apr2025 01:51:59.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[16Apr2025 01:52:01.225] [Server thread/WARN] [org.valkyrienskies.core.networking.UdpServerImpl/]: There were 5 cases of failed connections in a row, is the UDP port accessible?
+[16Apr2025 01:52:01.226] [Server thread/INFO] [org.valkyrienskies.core.networking.UdpServerImpl/]: By disabling UDP this warning shall not be printed anymore.
+[16Apr2025 01:54:10.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Stone Age]
+[16Apr2025 01:55:08.937] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@12eb5e35
+[16Apr2025 01:55:08.943] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:53237] logged in with entity id 1230 at (-161.5, 69.0, -123.5)
+[16Apr2025 01:55:08.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[16Apr2025 01:55:15.184] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Disconnected
+[16Apr2025 01:55:15.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
