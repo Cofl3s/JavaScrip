@@ -1028,3 +1028,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [16Apr2025 03:56:36.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set the time to 1000]
 [16Apr2025 03:58:12.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by Myrmex Soldier
 [16Apr2025 03:58:17.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[16Apr2025 04:03:14.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 04:03:19.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Made Superag_Games no longer a server operator]
+[16Apr2025 04:04:44.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s fell from a high place
+[16Apr2025 04:04:58.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Superag_Games a server operator
+[16Apr2025 04:05:02.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[16Apr2025 04:05:17.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[16Apr2025 04:05:26.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[16Apr2025 04:06:00.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[16Apr2025 04:06:54.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> axolote
