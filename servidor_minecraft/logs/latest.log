@@ -768,3 +768,68 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [18Apr2025 17:41:51.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
 [18Apr2025 17:42:38.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
 [18Apr2025 17:43:00.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> wa
+[18Apr2025 17:44:04.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 17:44:43.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 17:46:53.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 17:47:21.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 17:47:22.119] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 17:47:22.170] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 17:47:22.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 17:47:28.127] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a9671a
+[18Apr2025 17:47:28.134] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:43613] logged in with entity id 159122 at (-263.5375990915001, 68.9375, 1669.466742972581)
+[18Apr2025 17:47:28.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 17:47:41.554] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity EntitySlowPart['Part'/156504, l='ServerLevel[world]', x=-178.77, y=62.00, z=1726.88]
+[18Apr2025 17:47:49.621] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 17:47:49.665] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 17:47:49.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 17:47:53.464] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Disconnected
+[18Apr2025 17:47:53.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[18Apr2025 17:47:56.014] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[18Apr2025 17:47:56.060] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[18Apr2025 17:47:56.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 17:47:56.710] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@38dcee82
+[18Apr2025 17:47:56.716] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:36649] logged in with entity id 160108 at (-223.19119561429676, 191.0991426930505, 1682.2992037794204)
+[18Apr2025 17:47:56.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 17:48:19.073] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@277f6748
+[18Apr2025 17:48:19.078] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:51261] logged in with entity id 160709 at (-204.5926324449252, 141.31493490204804, 1695.2881249836587)
+[18Apr2025 17:48:19.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 17:48:43.665] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4e803718
+[18Apr2025 17:48:43.671] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:35719] logged in with entity id 161004 at (-256.9772618663348, 160.6951458580883, 1679.2782217213603)
+[18Apr2025 17:48:43.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[18Apr2025 17:48:44.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Paul Atreides]
+[18Apr2025 17:48:49.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 fell from a high place
+[18Apr2025 17:49:08.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 17:49:24.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[18Apr2025 17:49:51.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[18Apr2025 17:50:38.997] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/162716, l='ServerLevel[world]', x=-175.27, y=66.72, z=1664.45]
+[18Apr2025 17:50:38.997] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/162716, l='ServerLevel[world]', x=-175.27, y=66.72, z=1664.45]
+[18Apr2025 17:50:38.997] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/162716, l='ServerLevel[world]', x=-175.27, y=66.72, z=1664.45]
+[18Apr2025 17:50:38.997] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/162718, l='ServerLevel[world]', x=-172.28, y=65.33, z=1664.31]
+[18Apr2025 17:50:38.998] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/162718, l='ServerLevel[world]', x=-172.28, y=65.33, z=1664.31]
+[18Apr2025 17:50:38.998] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/162718, l='ServerLevel[world]', x=-172.28, y=65.33, z=1664.31]
+[18Apr2025 17:50:38.998] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Barrel'/162719, l='ServerLevel[world]', x=-175.35, y=66.49, z=1666.70]
+[18Apr2025 17:50:38.998] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Barrel'/162719, l='ServerLevel[world]', x=-175.35, y=66.49, z=1666.70]
+[18Apr2025 17:50:38.998] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Barrel'/162719, l='ServerLevel[world]', x=-175.35, y=66.49, z=1666.70]
+[18Apr2025 17:50:38.999] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/162720, l='ServerLevel[world]', x=-176.43, y=64.50, z=1663.39]
+[18Apr2025 17:50:38.999] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/162720, l='ServerLevel[world]', x=-176.43, y=64.50, z=1663.39]
+[18Apr2025 17:50:38.999] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/162720, l='ServerLevel[world]', x=-176.43, y=64.50, z=1663.39]
+[18Apr2025 17:50:38.999] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Trapped Chest'/162721, l='ServerLevel[world]', x=-174.74, y=66.47, z=1666.40]
+[18Apr2025 17:50:39.000] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Trapped Chest'/162721, l='ServerLevel[world]', x=-174.74, y=66.47, z=1666.40]
+[18Apr2025 17:50:39.000] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Trapped Chest'/162721, l='ServerLevel[world]', x=-174.74, y=66.47, z=1666.40]
+[18Apr2025 17:50:39.000] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/162722, l='ServerLevel[world]', x=-172.45, y=64.51, z=1666.58]
+[18Apr2025 17:50:39.000] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/162722, l='ServerLevel[world]', x=-172.45, y=64.51, z=1666.58]
+[18Apr2025 17:50:39.000] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Planks'/162722, l='ServerLevel[world]', x=-172.45, y=64.51, z=1666.58]
+[18Apr2025 17:50:39.001] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/162723, l='ServerLevel[world]', x=-175.74, y=63.40, z=1662.48]
+[18Apr2025 17:50:39.001] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/162723, l='ServerLevel[world]', x=-175.74, y=63.40, z=1662.48]
+[18Apr2025 17:50:39.001] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/162723, l='ServerLevel[world]', x=-175.74, y=63.40, z=1662.48]
+[18Apr2025 17:50:39.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Paul Atreides]
+[18Apr2025 17:51:51.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by Death Worm
+[18Apr2025 17:51:54.115] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 was kicked for floating too long!
+[18Apr2025 17:51:54.161] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Flying is not enabled on this server
+[18Apr2025 17:51:54.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[18Apr2025 17:51:59.418] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@295a445
+[18Apr2025 17:51:59.424] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:37701] logged in with entity id 164054 at (-136.1619778864652, 123.6768144435468, 1741.971793881629)
+[18Apr2025 17:51:59.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[18Apr2025 17:52:00.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 17:52:04.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 17:53:13.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]

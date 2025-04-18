@@ -419,7 +419,8 @@
       "rotten_flesh": "2025-04-18 06:09:08 +0000",
       "golden_carrot": "2025-04-18 16:55:19 +0000",
       "cooked_chicken": "2025-04-18 17:10:54 +0000",
-      "mushroom_stew": "2025-04-18 06:19:37 +0000"
+      "mushroom_stew": "2025-04-18 06:19:37 +0000",
+      "carrot": "2025-04-18 17:48:30 +0000"
     },
     "done": false
   },
@@ -2134,6 +2135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-18 17:47:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:48:16 +0000"
@@ -2299,6 +2306,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-18 06:09:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2025-04-18 17:50:39 +0000"
     },
     "done": true
   },
