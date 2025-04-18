@@ -271,8 +271,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-04-18 18:39:12 +0000",
       "cooked_mutton": "2025-04-18 17:29:58 +0000",
-      "apple": "2025-04-18 17:42:04 +0000"
+      "apple": "2025-04-18 17:42:04 +0000",
+      "rotten_flesh": "2025-04-18 18:40:39 +0000"
     },
     "done": false
   },
@@ -381,6 +383,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-18 17:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-18 18:39:08 +0000"
     },
     "done": true
   },
@@ -666,6 +674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-18 18:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-04-18 18:11:27 +0000"
@@ -888,6 +902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-18 18:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-18 18:11:24 +0000"
@@ -939,6 +959,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-18 17:34:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_feather": "2025-04-18 18:39:08 +0000"
     },
     "done": true
   },
@@ -1226,10 +1252,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-04-18 18:37:05 +0000",
       "minecraft:mountains": "2025-04-18 17:22:36 +0000",
+      "minecraft:forest": "2025-04-18 18:34:49 +0000",
       "minecraft:taiga": "2025-04-18 18:17:03 +0000",
       "minecraft:desert_hills": "2025-04-18 17:30:00 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-18 18:37:03 +0000",
       "minecraft:desert": "2025-04-18 17:29:35 +0000",
+      "minecraft:birch_forest": "2025-04-18 18:38:13 +0000",
       "minecraft:beach": "2025-04-18 17:44:21 +0000",
       "minecraft:river": "2025-04-18 17:28:34 +0000",
       "minecraft:wooded_mountains": "2025-04-18 18:11:20 +0000",
@@ -1348,6 +1378,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
+    "criteria": {
+      "has_feather": "2025-04-18 18:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-18 17:32:49 +0000"
@@ -1405,6 +1441,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/lance_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 17:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-18 18:39:08 +0000"
     },
     "done": true
   },
