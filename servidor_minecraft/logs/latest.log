@@ -689,3 +689,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [18Apr2025 17:12:05.317] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7bf605eb
 [18Apr2025 17:12:05.322] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:34155] logged in with entity id 94586 at (803.8178325824268, 108.6271596978711, 1238.7841477840086)
 [18Apr2025 17:12:05.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 17:13:53.730] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Disconnected
+[18Apr2025 17:13:53.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 17:13:57.771] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1632a4bf
+[18Apr2025 17:13:57.777] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:54221] logged in with entity id 95195 at (774.1271552434818, 76.0, 1316.709917165396)
+[18Apr2025 17:13:57.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 17:14:17.210] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/95264, l='ServerLevel[world]', x=829.59, y=74.00, z=1279.49]
+[18Apr2025 17:14:17.210] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/95264, l='ServerLevel[world]', x=829.59, y=74.00, z=1279.49]
+[18Apr2025 17:17:19.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games was blown up by cofl3s
+[18Apr2025 17:17:19.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games died
+[18Apr2025 17:17:27.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to cofl3s]
+[18Apr2025 17:17:49.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[18Apr2025 17:18:08.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: +900 doriki for Superag_Games]
+[18Apr2025 17:18:15.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[18Apr2025 17:22:25.921] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@783b5b07
+[18Apr2025 17:22:25.924] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:53457] logged in with entity id 117638 at (132.5, 69.0, -75.5)
+[18Apr2025 17:22:25.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[18Apr2025 17:22:26.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Ice and Fire]
+[18Apr2025 17:22:36.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 17:22:39.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
