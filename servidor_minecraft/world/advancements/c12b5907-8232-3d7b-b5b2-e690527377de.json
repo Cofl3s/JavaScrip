@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
+    "criteria": {
+      "has_bow": "2025-04-18 18:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-18 17:57:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-18 17:31:53 +0000"
@@ -149,6 +161,18 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile": {
+    "criteria": {
+      "has_item": "2025-04-18 18:02:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_wood": {
+    "criteria": {
+      "has_bow": "2025-04-18 18:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-18 17:32:49 +0000"
@@ -170,6 +194,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-18 17:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-18 18:02:06 +0000"
     },
     "done": true
   },
@@ -206,6 +236,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2025-04-18 17:26:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/quiver_arrow_small": {
+    "criteria": {
+      "has_arrow": "2025-04-18 18:02:06 +0000"
     },
     "done": true
   },
@@ -285,6 +321,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 17:27:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_diamond": {
+    "criteria": {
+      "has_bow": "2025-04-18 18:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-18 18:02:06 +0000"
     },
     "done": true
   },
@@ -456,6 +504,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/bone_pile_block": {
+    "criteria": {
+      "has_item": "2025-04-18 18:02:06 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-04-18 17:22:25 +0000"
@@ -513,6 +567,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 17:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-18 17:57:22 +0000"
     },
     "done": true
   },
@@ -808,6 +868,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-18 17:45:11 +0000",
+      "minecraft:skeleton": "2025-04-18 18:02:06 +0000",
       "minecraft:spider": "2025-04-18 17:31:51 +0000",
       "minecraft:creeper": "2025-04-18 17:32:06 +0000"
     },
@@ -846,6 +907,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2025-04-18 17:26:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "desert": "2025-04-18 18:00:26 +0000"
     },
     "done": true
   },

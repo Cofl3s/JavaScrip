@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-18 18:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-04-18 05:57:39 +0000"
@@ -1110,6 +1116,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:48:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "desert": "2025-04-18 18:00:35 +0000"
     },
     "done": true
   },
