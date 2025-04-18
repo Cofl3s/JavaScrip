@@ -1629,3 +1629,16 @@ java.lang.NullPointerException: null
 [18Apr2025 22:46:04.627] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2095, y=17, z=8323} but found not block entity block Block{minecraft:stone} at location
 [18Apr2025 22:46:04.627] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=2095, y=17, z=8323}
 [18Apr2025 22:48:08.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
+[18Apr2025 22:49:03.636] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[18Apr2025 22:49:03.690] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[18Apr2025 22:49:03.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 22:49:09.239] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5cc33907
+[18Apr2025 22:49:09.243] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:56795] logged in with entity id 873110 at (1245.5568058218225, 78.38501160782383, 7379.22335203153)
+[18Apr2025 22:49:09.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 22:49:45.847] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/877186, l='ServerLevel[world]', x=2929.99, y=69.00, z=8890.01]
+[18Apr2025 22:49:55.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to cofl3s]
+[18Apr2025 22:50:02.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 22:51:44.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Legolas]
+[18Apr2025 22:55:31.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/880962, l='ServerLevel[world]', x=2968.93, y=86.00, z=8846.63]
+[18Apr2025 22:55:31.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/880962, l='ServerLevel[world]', x=2968.93, y=86.00, z=8846.63]
+[18Apr2025 22:55:31.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/880962, l='ServerLevel[world]', x=2968.93, y=86.00, z=8846.63]
