@@ -1458,3 +1458,27 @@ java.lang.NullPointerException: null
 [18Apr2025 21:45:34.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
 [18Apr2025 21:46:08.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to cofl3s]
 [18Apr2025 21:47:18.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to cofl3s]
+[18Apr2025 21:47:35.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 21:49:28.811] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 21:49:28.866] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 21:49:28.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 21:49:34.616] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ffe0e27
+[18Apr2025 21:49:34.621] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:58751] logged in with entity id 641110 at (-126.18400903886882, 62.07326461513889, 6739.261721507046)
+[18Apr2025 21:49:34.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 21:49:39.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to cofl3s]
+[18Apr2025 21:49:45.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[18Apr2025 21:49:52.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 21:49:56.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:50:04.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[18Apr2025 21:50:33.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:51:36.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to cofl3s]
+[18Apr2025 21:52:30.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:52:55.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 21:54:11.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 21:54:40.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 21:54:50.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:55:47.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:56:46.716] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.4147259310387881
+[18Apr2025 21:56:46.765] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.6050305718789559
+[18Apr2025 21:56:56.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:57:06.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
