@@ -1659,3 +1659,18 @@ java.lang.NullPointerException: null
 [18Apr2025 23:19:32.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
 [18Apr2025 23:20:18.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
 [18Apr2025 23:24:59.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zzzz
+[18Apr2025 23:34:01.786] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[18Apr2025 23:34:01.819] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[18Apr2025 23:34:01.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 23:34:03.209] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/870819, l='ServerLevel[world]', x=2893.96, y=64.00, z=8887.30] died, message: 'Leatherworker was slain by Swordsman Trainer'
+[18Apr2025 23:34:06.723] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@b863a01
+[18Apr2025 23:34:06.728] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:44071] logged in with entity id 898308 at (2891.369591840305, 78.34849047123207, 8912.08341564932)
+[18Apr2025 23:34:06.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 23:34:07.611] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/870821, l='ServerLevel[world]', x=2894.45, y=64.00, z=8887.53] died, message: 'Leatherworker was slain by Swordsman Trainer'
+[18Apr2025 23:34:07.612] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/871713, l='ServerLevel[world]', x=2893.77, y=64.00, z=8887.57] died, message: 'Leatherworker was slain by Swordsman Trainer'
+[18Apr2025 23:34:17.266] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/872222, l='ServerLevel[world]', x=2893.50, y=64.56, z=8874.13] died, message: 'Villager was slain by Swordsman Trainer'
+[18Apr2025 23:35:14.365] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Timed out
+[18Apr2025 23:35:14.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[18Apr2025 23:35:19.524] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@18d56f90
+[18Apr2025 23:35:19.527] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:46955] logged in with entity id 899423 at (2810.526479871556, 81.0, 8959.620130687403)
+[18Apr2025 23:35:19.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
