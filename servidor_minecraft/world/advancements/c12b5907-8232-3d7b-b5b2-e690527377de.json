@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 21:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-18 17:31:53 +0000"
@@ -804,6 +810,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/subtle_tweaks": {
+    "criteria": {
+      "subtle_tweaks": "2025-04-18 21:23:16 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-04-18 17:26:55 +0000"
@@ -813,6 +825,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-18 19:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 21:24:33 +0000"
     },
     "done": true
   },
@@ -1017,6 +1035,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-04-18 17:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 21:24:29 +0000"
     },
     "done": true
   },
@@ -1744,6 +1768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 21:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 19:25:47 +0000"
@@ -1753,6 +1783,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/scythe_silver": {
     "criteria": {
       "has_silver_ingot": "2025-04-18 19:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-04-18 21:24:33 +0000"
     },
     "done": true
   },
@@ -2518,6 +2554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-18 21:24:33 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/spruce_post": {
     "criteria": {
       "has_item": "2025-04-18 18:11:24 +0000"
@@ -2653,6 +2695,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 17:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 21:24:33 +0000"
     },
     "done": true
   },
@@ -2800,6 +2848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 21:24:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
     "criteria": {
       "has_feather": "2025-04-18 18:39:08 +0000"
@@ -2836,6 +2890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-04-18 21:24:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/saber_diamond": {
     "criteria": {
       "has_diamond": "2025-04-18 19:26:02 +0000"
@@ -2860,6 +2920,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 21:24:33 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/big_orange_glazed_jar": {
     "criteria": {
       "has_item": "2025-04-18 19:53:31 +0000"
@@ -2869,6 +2935,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 18:28:59 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/why_is_the_rum_gone": {
+    "criteria": {
+      "the_rum_is_indeed_gone": "2025-04-18 21:29:14 +0000"
     },
     "done": true
   },

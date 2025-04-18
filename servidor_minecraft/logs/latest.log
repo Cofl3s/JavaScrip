@@ -1390,3 +1390,33 @@ java.lang.NullPointerException: null
 [18Apr2025 21:25:20.289] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.5935427542038951
 [18Apr2025 21:25:20.324] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.7693929729479123
 [18Apr2025 21:25:33.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 21:27:53.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 21:28:30.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:30:43.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:30:46.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 21:32:30.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 21:32:32.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:32:45.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:32:46.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 21:32:51.116] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 was kicked for floating too long!
+[18Apr2025 21:32:51.163] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Flying is not enabled on this server
+[18Apr2025 21:32:51.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[18Apr2025 21:33:00.616] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7c218122
+[18Apr2025 21:33:00.621] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:54993] logged in with entity id 620412 at (-398.7120239507972, 73.4022175975442, 5313.822757078685)
+[18Apr2025 21:33:00.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[18Apr2025 21:33:40.619] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[18Apr2025 21:33:40.668] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[18Apr2025 21:33:40.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 21:33:46.464] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@79a40776
+[18Apr2025 21:33:46.468] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:40883] logged in with entity id 622880 at (-360.56300933980236, 81.58726955717214, 5249.3906039778385)
+[18Apr2025 21:33:46.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 21:34:32.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:35:09.624] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 21:35:09.669] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 21:35:09.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 21:35:15.823] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@49134863
+[18Apr2025 21:35:15.827] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:46533] logged in with entity id 625691 at (-124.67523578680247, 62.24864935297145, 5280.460169873033)
+[18Apr2025 21:35:15.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 21:35:18.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:36:13.483] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Disconnected
+[18Apr2025 21:36:13.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
