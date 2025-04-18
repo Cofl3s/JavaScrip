@@ -1075,3 +1075,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [18Apr2025 19:03:28.119] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3860108
 [18Apr2025 19:03:28.124] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:53893] logged in with entity id 309255 at (682.3052036520132, 56.0, 2134.512499988079)
 [18Apr2025 19:03:28.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 19:07:52.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Not Today, Thank You]
+[18Apr2025 19:12:33.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> xaero-waypoint:aa:A:355:40:1923:9:false:0:Internal-overworld-waypoints
