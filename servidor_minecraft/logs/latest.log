@@ -1651,3 +1651,8 @@ java.lang.NullPointerException: null
 [18Apr2025 23:08:29.968] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@19409d10
 [18Apr2025 23:08:29.972] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:41697] logged in with entity id 883487 at (2895.5531072109334, 69.16610926093821, 8898.3641146397)
 [18Apr2025 23:08:29.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[18Apr2025 23:10:45.312] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Timed out
+[18Apr2025 23:10:45.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[18Apr2025 23:10:56.872] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e4b28f0
+[18Apr2025 23:10:56.876] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:33809] logged in with entity id 884623 at (2953.628395355755, 72.0625, 8857.041633055855)
+[18Apr2025 23:10:56.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
