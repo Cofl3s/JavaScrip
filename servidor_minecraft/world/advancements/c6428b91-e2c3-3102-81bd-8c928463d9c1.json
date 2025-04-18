@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-18 17:29:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:48:16 +0000"
@@ -380,6 +386,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/warhammer_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 16:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-04-18 17:26:13 +0000"
     },
     "done": true
   },
@@ -750,6 +762,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-18 17:29:51 +0000"
     },
     "done": true
   },
@@ -1286,6 +1304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-18 17:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-18 06:09:51 +0000"
@@ -1784,6 +1808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-18 17:29:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 05:41:28 +0000"
@@ -1910,7 +1940,9 @@
       "minecraft:forest": "2025-04-18 05:57:21 +0000",
       "minecraft:mountains": "2025-04-18 05:44:18 +0000",
       "minecraft:taiga": "2025-04-18 06:11:23 +0000",
+      "minecraft:desert_hills": "2025-04-18 17:29:45 +0000",
       "minecraft:taiga_hills": "2025-04-18 16:37:48 +0000",
+      "minecraft:desert": "2025-04-18 17:29:27 +0000",
       "minecraft:birch_forest": "2025-04-18 05:57:34 +0000",
       "minecraft:beach": "2025-04-18 16:26:45 +0000",
       "minecraft:dark_forest": "2025-04-18 16:49:46 +0000",
