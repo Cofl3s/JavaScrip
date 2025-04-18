@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "relics:obtain/magma_walker": {
+    "criteria": {
+      "obtain_relic": "2025-04-18 22:09:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-18 06:12:05 +0000"
