@@ -1642,3 +1642,12 @@ java.lang.NullPointerException: null
 [18Apr2025 22:55:31.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/880962, l='ServerLevel[world]', x=2968.93, y=86.00, z=8846.63]
 [18Apr2025 22:55:31.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/880962, l='ServerLevel[world]', x=2968.93, y=86.00, z=8846.63]
 [18Apr2025 22:55:31.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/880962, l='ServerLevel[world]', x=2968.93, y=86.00, z=8846.63]
+[18Apr2025 23:00:09.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [An Ear-Shattering Roar]
+[18Apr2025 23:03:14.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [The Song of the Dragons]
+[18Apr2025 23:07:59.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was slain by Bandit Brute
+[18Apr2025 23:08:15.519] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 was kicked for floating too long!
+[18Apr2025 23:08:15.566] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Flying is not enabled on this server
+[18Apr2025 23:08:15.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[18Apr2025 23:08:29.968] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@19409d10
+[18Apr2025 23:08:29.972] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:41697] logged in with entity id 883487 at (2895.5531072109334, 69.16610926093821, 8898.3641146397)
+[18Apr2025 23:08:29.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
