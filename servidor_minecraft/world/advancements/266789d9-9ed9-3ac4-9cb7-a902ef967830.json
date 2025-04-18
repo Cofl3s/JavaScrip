@@ -1568,6 +1568,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/orange_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-18 19:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-18 05:39:00 +0000"
@@ -2007,6 +2013,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-04-18 19:47:54 +0000"
     },
     "done": true
   },
@@ -2901,6 +2913,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-04-18 18:44:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_orange_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-18 19:47:54 +0000"
     },
     "done": true
   },
