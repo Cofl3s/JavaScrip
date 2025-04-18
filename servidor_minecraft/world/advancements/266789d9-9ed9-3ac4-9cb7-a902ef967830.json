@@ -1390,6 +1390,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-18 22:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-18 05:38:45 +0000"
@@ -1487,6 +1493,7 @@
       "minecraft:mountains": "2025-04-18 06:03:39 +0000",
       "minecraft:taiga": "2025-04-18 06:11:22 +0000",
       "minecraft:desert_hills": "2025-04-18 17:26:57 +0000",
+      "minecraft:giant_tree_taiga": "2025-04-18 22:34:22 +0000",
       "minecraft:taiga_hills": "2025-04-18 06:24:03 +0000",
       "minecraft:desert": "2025-04-18 17:27:02 +0000",
       "minecraft:birch_forest": "2025-04-18 16:40:37 +0000",
@@ -1500,6 +1507,7 @@
       "minecraft:wooded_mountains": "2025-04-18 17:05:07 +0000",
       "minecraft:wooded_hills": "2025-04-18 05:35:27 +0000",
       "minecraft:stone_shore": "2025-04-18 18:23:02 +0000",
+      "minecraft:giant_tree_taiga_hills": "2025-04-18 22:34:10 +0000",
       "minecraft:swamp": "2025-04-18 17:46:08 +0000",
       "minecraft:plains": "2025-04-18 05:38:07 +0000"
     },
@@ -1790,6 +1798,12 @@
   "iceandfire:iceandfire/deathworm_egg": {
     "criteria": {
       "egg": "2025-04-18 17:48:44 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/ice_breaker": {
+    "criteria": {
+      "obtain_relic": "2025-04-18 22:39:54 +0000"
     },
     "done": true
   },
@@ -2902,6 +2916,12 @@
     },
     "done": true
   },
+  "relics:obtain/arrow_quiver": {
+    "criteria": {
+      "obtain_relic": "2025-04-18 22:38:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-18 06:07:00 +0000"
@@ -2947,6 +2967,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_diamond": {
     "criteria": {
       "has_diamond": "2025-04-18 19:59:16 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/rage_glove": {
+    "criteria": {
+      "obtain_relic": "2025-04-18 22:31:43 +0000"
     },
     "done": true
   },
