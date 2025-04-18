@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-04-18 20:53:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 16:51:32 +0000"
@@ -1214,6 +1220,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2025-04-18 05:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-18 21:02:15 +0000"
     },
     "done": true
   },
@@ -2480,6 +2492,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/light_blue_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-18 20:53:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
       "has_bow": "2025-04-18 06:06:56 +0000"
@@ -2873,6 +2891,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/longbow_silver": {
     "criteria": {
       "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_light_blue_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-18 20:53:42 +0000"
     },
     "done": true
   },

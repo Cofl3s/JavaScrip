@@ -1328,3 +1328,15 @@ java.lang.NullPointerException: null
 [18Apr2025 20:54:48.728] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566249, l='ServerLevel[world]', x=-734.60, y=92.00, z=4540.30]
 [18Apr2025 20:54:48.728] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566250, l='ServerLevel[world]', x=-734.60, y=92.00, z=4540.30]
 [18Apr2025 20:54:48.728] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566250, l='ServerLevel[world]', x=-734.60, y=92.00, z=4540.30]
+[18Apr2025 20:59:29.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Enchanter]
+[18Apr2025 21:02:15.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has reached the goal [Postmortal]
+[18Apr2025 21:02:15.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games was killed by cofl3s using Explosive Punch
+[18Apr2025 21:02:15.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games died
+[18Apr2025 21:02:39.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: +3000 doriki for Superag_Games]
+[18Apr2025 21:03:21.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: -200 doriki for Superag_Games]
+[18Apr2025 21:03:27.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: -200 doriki for Superag_Games]
+[18Apr2025 21:03:37.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: -1000 doriki for Superag_Games]
+[18Apr2025 21:03:52.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: +200 doriki for Superag_Games]
+[18Apr2025 21:03:57.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: +100 doriki for Superag_Games]
+[18Apr2025 21:04:26.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[18Apr2025 21:04:43.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
