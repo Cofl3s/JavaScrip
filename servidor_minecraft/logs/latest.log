@@ -1177,3 +1177,21 @@ java.lang.NullPointerException: null
 [18Apr2025 19:53:28.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Who You Gonna Call?]
 [18Apr2025 19:53:41.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Amateur Archaeologist]
 [18Apr2025 19:53:41.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Time to roll the balls]
+[18Apr2025 19:56:31.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 19:58:00.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Take Aim]
+[18Apr2025 19:59:16.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Diamonds!]
+[18Apr2025 19:59:46.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> xaero-waypoint:a:A:804:71:2843:8:false:0:Internal-overworld-waypoints
+[18Apr2025 20:00:40.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Poseidon, God of the Seas]
+[18Apr2025 20:04:48.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Sea? Not a Problem]
+[18Apr2025 20:04:59.414] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 was kicked for floating too long!
+[18Apr2025 20:04:59.464] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Flying is not enabled on this server
+[18Apr2025 20:04:59.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[18Apr2025 20:05:06.515] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5b3de53b
+[18Apr2025 20:05:06.519] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:42879] logged in with entity id 390641 at (701.9643988479388, 67.36175853403327, 2916.5959968518378)
+[18Apr2025 20:05:06.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[18Apr2025 20:05:08.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 20:05:10.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 fell from a high place
+[18Apr2025 20:05:25.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 20:05:37.518] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.47665078949921735
+[18Apr2025 20:05:37.580] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.6014730578968965
+[18Apr2025 20:05:37.614] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.703508322620678
