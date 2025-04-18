@@ -665,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-18 22:18:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-18 05:57:41 +0000"
@@ -782,6 +788,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 05:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-18 22:18:35 +0000"
     },
     "done": true
   },
@@ -1211,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-18 22:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-18 06:12:31 +0000"
@@ -1385,6 +1403,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-18 22:26:03 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/misc/vivre_card": {
+    "criteria": {
+      "has_paper": "2025-04-18 22:26:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_diamond": {
     "criteria": {
       "has_diamond": "2025-04-18 20:24:50 +0000"
@@ -1526,6 +1556,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-04-18 21:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-18 22:18:35 +0000"
     },
     "done": true
   },
@@ -1700,6 +1736,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-04-18 18:02:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-04-18 22:25:50 +0000"
     },
     "done": true
   },
@@ -2102,6 +2144,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-04-18 18:32:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-04-18 22:25:46 +0000"
     },
     "done": true
   },

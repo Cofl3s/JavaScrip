@@ -1301,9 +1301,11 @@
       "minecraft:taiga_hills": "2025-04-18 20:01:11 +0000",
       "minecraft:desert": "2025-04-18 17:29:35 +0000",
       "minecraft:birch_forest": "2025-04-18 18:38:13 +0000",
+      "minecraft:warm_ocean": "2025-04-18 22:21:44 +0000",
       "minecraft:beach": "2025-04-18 17:44:21 +0000",
       "minecraft:dark_forest": "2025-04-18 20:35:44 +0000",
       "minecraft:river": "2025-04-18 17:28:34 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-18 22:18:04 +0000",
       "minecraft:wooded_mountains": "2025-04-18 18:11:20 +0000",
       "minecraft:wooded_hills": "2025-04-18 17:22:25 +0000",
       "minecraft:stone_shore": "2025-04-18 18:23:08 +0000",
@@ -1836,7 +1838,8 @@
       "apple": "2025-04-18 17:42:04 +0000",
       "mutton": "2025-04-18 20:13:01 +0000",
       "bread": "2025-04-18 19:29:02 +0000",
-      "rotten_flesh": "2025-04-18 18:40:39 +0000"
+      "rotten_flesh": "2025-04-18 18:40:39 +0000",
+      "cooked_salmon": "2025-04-18 22:24:08 +0000"
     },
     "done": false
   },

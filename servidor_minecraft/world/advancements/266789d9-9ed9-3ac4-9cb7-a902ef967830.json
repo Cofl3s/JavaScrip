@@ -766,6 +766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-18 22:18:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-18 05:56:25 +0000"
@@ -889,6 +895,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 05:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-18 22:18:41 +0000"
     },
     "done": true
   },
@@ -1478,6 +1490,7 @@
       "minecraft:taiga_hills": "2025-04-18 06:24:03 +0000",
       "minecraft:desert": "2025-04-18 17:27:02 +0000",
       "minecraft:birch_forest": "2025-04-18 16:40:37 +0000",
+      "minecraft:warm_ocean": "2025-04-18 22:21:44 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-18 21:41:43 +0000",
       "minecraft:beach": "2025-04-18 16:25:23 +0000",
       "minecraft:dark_forest": "2025-04-18 16:47:59 +0000",
@@ -1657,6 +1670,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2025-04-18 06:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-18 22:18:41 +0000"
     },
     "done": true
   },

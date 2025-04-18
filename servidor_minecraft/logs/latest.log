@@ -1528,3 +1528,26 @@ java.lang.NullPointerException: null
 [18Apr2025 22:16:40.226] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@225516d9
 [18Apr2025 22:16:40.230] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:46931] logged in with entity id 676373 at (888.6336430882307, 116.51908198416338, 7296.438091612574)
 [18Apr2025 22:16:40.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 22:18:04.819] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 was kicked for floating too long!
+[18Apr2025 22:18:04.877] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Flying is not enabled on this server
+[18Apr2025 22:18:04.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[18Apr2025 22:18:11.269] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3fd3c3ad
+[18Apr2025 22:18:11.272] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:42323] logged in with entity id 680783 at (853.2276784788797, 134.7360927915276, 7321.575925301359)
+[18Apr2025 22:18:11.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[18Apr2025 22:18:22.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 22:18:26.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 22:18:26.355] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/680663, l='ServerLevel[world]', x=1094.50, y=68.94, z=6887.59] died, message: 'Villager was slain by Fire Dragon'
+[18Apr2025 22:18:28.660] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/680660, l='ServerLevel[world]', x=1101.50, y=72.11, z=6865.73] died, message: 'Cleric was burnt to a crisp whilst fighting Fire Dragon'
+[18Apr2025 22:18:40.007] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/680734, l='ServerLevel[world]', x=1138.65, y=67.00, z=6851.08] died, message: 'Villager was incinerated by Fire Dragon'
+[18Apr2025 22:18:44.156] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/680665, l='ServerLevel[world]', x=1140.29, y=68.25, z=6863.84] died, message: 'Villager was slain by Fire Dragon'
+[18Apr2025 22:19:50.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[18Apr2025 22:22:45.173] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.4325036949421701
+[18Apr2025 22:22:45.174] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.4325036949421701
+[18Apr2025 22:22:45.220] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.4325036949421701
+[18Apr2025 22:22:45.319] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.4325036949421701
+[18Apr2025 22:22:58.165] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/680668, l='ServerLevel[world]', x=1128.30, y=69.00, z=6872.59] died, message: 'Scribe was slain by Zombie'
+[18Apr2025 22:24:03.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[18Apr2025 22:25:46.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Rotten to the Core]
+[18Apr2025 22:25:50.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Book of Monsters]
+[18Apr2025 22:26:18.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 22:26:19.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
