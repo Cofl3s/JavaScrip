@@ -803,6 +803,12 @@
     },
     "done": true
   },
+  "relics:obtain/ghost_skin_talisman": {
+    "criteria": {
+      "obtain_relic": "2025-04-18 20:18:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2025-04-18 17:37:05 +0000"
