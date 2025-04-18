@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-18 17:10:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/spear_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 16:51:32 +0000"
@@ -152,6 +158,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 16:51:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-18 17:08:41 +0000"
     },
     "done": true
   },
@@ -394,6 +406,7 @@
       "cookie": "2025-04-18 06:20:11 +0000",
       "rotten_flesh": "2025-04-18 06:09:08 +0000",
       "golden_carrot": "2025-04-18 16:55:19 +0000",
+      "cooked_chicken": "2025-04-18 17:10:54 +0000",
       "mushroom_stew": "2025-04-18 06:19:37 +0000"
     },
     "done": false
@@ -407,6 +420,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-18 06:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-18 17:03:13 +0000"
     },
     "done": true
   },
@@ -656,6 +675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-18 17:10:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-04-18 05:41:28 +0000"
@@ -689,6 +714,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/club_wood": {
     "criteria": {
       "has_wood_log": "2025-04-18 05:35:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 17:02:20 +0000"
     },
     "done": true
   },
@@ -1081,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-18 17:03:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 05:41:28 +0000"
@@ -1279,6 +1316,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-18 17:07:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_wood": {
     "criteria": {
       "has_wood": "2025-04-18 05:38:33 +0000"
@@ -1399,6 +1442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 17:02:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2025-04-18 05:41:19 +0000"
@@ -1486,6 +1535,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 16:51:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/spruce_post": {
+    "criteria": {
+      "has_item": "2025-04-18 17:02:20 +0000"
     },
     "done": true
   },
@@ -1861,6 +1916,7 @@
       "minecraft:dark_forest": "2025-04-18 16:49:46 +0000",
       "minecraft:river": "2025-04-18 05:41:57 +0000",
       "minecraft:birch_forest_hills": "2025-04-18 16:57:56 +0000",
+      "minecraft:wooded_mountains": "2025-04-18 17:02:23 +0000",
       "minecraft:wooded_hills": "2025-04-18 05:35:12 +0000",
       "minecraft:plains": "2025-04-18 05:35:21 +0000"
     },
