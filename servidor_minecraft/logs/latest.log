@@ -661,3 +661,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [18Apr2025 16:50:48.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Ice Bucket Challenge]
 [18Apr2025 16:50:56.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Ice Bucket Challenge]
 [18Apr2025 16:51:05.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Isn't It Iron Pick]
+[18Apr2025 17:02:16.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[18Apr2025 17:02:31.725] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=880, y=31, z=747} but found not block entity block Block{minecraft:stone} at location
+[18Apr2025 17:02:31.725] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=880, y=31, z=747}
