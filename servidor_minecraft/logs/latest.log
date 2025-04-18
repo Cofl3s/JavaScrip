@@ -1674,3 +1674,5 @@ java.lang.NullPointerException: null
 [18Apr2025 23:35:19.524] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@18d56f90
 [18Apr2025 23:35:19.527] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:46955] logged in with entity id 899423 at (2810.526479871556, 81.0, 8959.620130687403)
 [18Apr2025 23:35:19.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[18Apr2025 23:43:44.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [What a Deal!]
+[18Apr2025 23:48:37.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zzzzzzzzzzzzz
