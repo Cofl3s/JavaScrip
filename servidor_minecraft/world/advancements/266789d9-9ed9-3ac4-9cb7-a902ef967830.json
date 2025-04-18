@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-04-18 20:29:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 18:09:35 +0000"
@@ -2700,6 +2706,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/light_blue_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-18 20:29:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
       "has_bow": "2025-04-18 05:51:42 +0000"
@@ -3135,6 +3147,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/longbow_silver": {
     "criteria": {
       "has_silver_ingot": "2025-04-18 19:54:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_light_blue_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-18 20:29:21 +0000"
     },
     "done": true
   },

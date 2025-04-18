@@ -1253,3 +1253,49 @@ java.lang.NullPointerException: null
 [18Apr2025 20:25:21.021] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:45271] logged in with entity id 489227 at (776.7817478181754, 76.11603663917556, 3228.1196354344293)
 [18Apr2025 20:25:21.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
 [18Apr2025 20:25:49.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zzz
+[18Apr2025 20:28:44.291] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=348, y=26, z=3824} but found not block entity block Block{minecraft:stone} at location
+[18Apr2025 20:28:44.291] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=348, y=26, z=3824}
+[18Apr2025 20:29:22.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 20:31:37.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Superag_Games to Naifu2401]
+[18Apr2025 20:31:41.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 20:31:55.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was doomed to fall by Cyclops
+[18Apr2025 20:32:04.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 20:32:19.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[18Apr2025 20:32:46.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=217, y=0, z=4213} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=217, y=0, z=4213}
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=210, y=0, z=4214} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=210, y=0, z=4214}
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=213, y=0, z=4213} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=213, y=0, z=4213}
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=208, y=0, z=4213} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=208, y=0, z=4213}
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=208, y=0, z=4208} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=208, y=0, z=4208}
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=208, y=0, z=4211} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:41.821] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=208, y=0, z=4211}
+[18Apr2025 20:34:43.277] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=195, y=0, z=4253} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:43.277] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=195, y=0, z=4253}
+[18Apr2025 20:34:43.277] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=195, y=0, z=4246} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:43.278] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=195, y=0, z=4246}
+[18Apr2025 20:34:43.278] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=193, y=0, z=4243} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:43.278] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=193, y=0, z=4243}
+[18Apr2025 20:34:43.278] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=206, y=0, z=4257} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:43.278] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=206, y=0, z=4257}
+[18Apr2025 20:34:43.278] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=197, y=0, z=4257} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:43.278] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=197, y=0, z=4257}
+[18Apr2025 20:34:44.490] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=183, y=0, z=4255} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:44.490] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=183, y=0, z=4255}
+[18Apr2025 20:34:44.490] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=181, y=0, z=4253} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:44.491] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=181, y=0, z=4253}
+[18Apr2025 20:34:44.491] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=182, y=0, z=4251} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:44.491] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=182, y=0, z=4251}
+[18Apr2025 20:34:44.491] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=179, y=0, z=4251} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:44.491] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=179, y=0, z=4251}
+[18Apr2025 20:34:44.491] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=180, y=0, z=4251} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:44.491] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=180, y=0, z=4251}
+[18Apr2025 20:34:46.193] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=175, y=0, z=4253} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:46.194] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=175, y=0, z=4253}
+[18Apr2025 20:34:46.194] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=174, y=0, z=4251} but found not block entity block Block{minecraft:bedrock} at location
+[18Apr2025 20:34:46.194] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=174, y=0, z=4251}
+[18Apr2025 20:35:16.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
