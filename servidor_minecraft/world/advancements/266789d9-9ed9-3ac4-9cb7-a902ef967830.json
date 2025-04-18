@@ -1964,7 +1964,8 @@
       "cooked_chicken": "2025-04-18 17:04:22 +0000",
       "mushroom_stew": "2025-04-18 17:12:18 +0000",
       "cod": "2025-04-18 16:32:26 +0000",
-      "rabbit_stew": "2025-04-18 06:13:29 +0000"
+      "rabbit_stew": "2025-04-18 06:13:29 +0000",
+      "cooked_salmon": "2025-04-18 20:34:23 +0000"
     },
     "done": false
   },
@@ -2331,6 +2332,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 18:09:35 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/food/ultra_cola": {
+    "criteria": {
+      "has_cola": "2025-04-18 20:39:49 +0000"
     },
     "done": true
   },

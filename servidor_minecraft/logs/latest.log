@@ -1299,3 +1299,11 @@ java.lang.NullPointerException: null
 [18Apr2025 20:34:46.194] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=174, y=0, z=4251} but found not block entity block Block{minecraft:bedrock} at location
 [18Apr2025 20:34:46.194] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=174, y=0, z=4251}
 [18Apr2025 20:35:16.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 20:37:31.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zzzz
+[18Apr2025 20:37:32.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Hot Stuff]
+[18Apr2025 20:37:34.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Naifu2401> zz
+[18Apr2025 20:42:23.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[18Apr2025 20:42:32.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[18Apr2025 20:45:50.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 20:46:08.780] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Disconnected
+[18Apr2025 20:46:08.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
