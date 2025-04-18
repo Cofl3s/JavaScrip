@@ -1340,3 +1340,27 @@ java.lang.NullPointerException: null
 [18Apr2025 21:03:57.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: +100 doriki for Superag_Games]
 [18Apr2025 21:04:26.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
 [18Apr2025 21:04:43.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[18Apr2025 21:07:55.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:09:40.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Dragonslayer]
+[18Apr2025 21:10:17.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:11:15.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 21:12:15.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has completed the challenge [The Power of the Sun]
+[18Apr2025 21:12:28.862] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[18Apr2025 21:12:28.912] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[18Apr2025 21:12:28.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 21:12:31.910] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 21:12:31.962] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 21:12:31.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 21:12:33.911] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6595e8b8
+[18Apr2025 21:12:33.917] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:59391] logged in with entity id 585077 at (-887.8793476146208, 93.15123887933595, 5233.801653561887)
+[18Apr2025 21:12:33.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 21:12:38.417] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@300767c
+[18Apr2025 21:12:38.422] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:57711] logged in with entity id 585471 at (-894.591678085019, 93.0055981674617, 5237.860005629848)
+[18Apr2025 21:12:38.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 21:12:51.311] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 21:12:51.362] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 21:12:51.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 21:12:56.416] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@29e7c19d
+[18Apr2025 21:12:56.421] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:40605] logged in with entity id 586428 at (-946.7676385449709, 97.16798328278074, 5217.354747691253)
+[18Apr2025 21:12:56.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 21:16:37.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Tie me to the Mast]
