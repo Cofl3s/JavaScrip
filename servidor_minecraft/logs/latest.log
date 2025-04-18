@@ -1307,3 +1307,24 @@ java.lang.NullPointerException: null
 [18Apr2025 20:45:50.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
 [18Apr2025 20:46:08.780] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Disconnected
 [18Apr2025 20:46:08.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[18Apr2025 20:46:30.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Pic-A-Nic Basket?]
+[18Apr2025 20:48:10.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zz
+[18Apr2025 20:48:54.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 20:50:00.764] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[18Apr2025 20:50:00.811] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[18Apr2025 20:50:00.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 20:50:06.314] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6b974858
+[18Apr2025 20:50:06.319] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:55511] logged in with entity id 563108 at (-797.3129452629007, 67.13397511482248, 4307.305577868006)
+[18Apr2025 20:50:06.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 20:50:33.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Suit Up]
+[18Apr2025 20:51:41.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 20:54:41.135] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566196, l='ServerLevel[world]', x=-734.20, y=92.31, z=4535.48]
+[18Apr2025 20:54:41.135] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566196, l='ServerLevel[world]', x=-734.20, y=92.31, z=4535.48]
+[18Apr2025 20:54:41.135] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566197, l='ServerLevel[world]', x=-734.20, y=92.31, z=4535.48]
+[18Apr2025 20:54:41.135] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566197, l='ServerLevel[world]', x=-734.20, y=92.31, z=4535.48]
+[18Apr2025 20:54:48.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566248, l='ServerLevel[world]', x=-734.60, y=92.00, z=4540.30]
+[18Apr2025 20:54:48.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566248, l='ServerLevel[world]', x=-734.60, y=92.00, z=4540.30]
+[18Apr2025 20:54:48.727] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566249, l='ServerLevel[world]', x=-734.60, y=92.00, z=4540.30]
+[18Apr2025 20:54:48.728] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566249, l='ServerLevel[world]', x=-734.60, y=92.00, z=4540.30]
+[18Apr2025 20:54:48.728] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566250, l='ServerLevel[world]', x=-734.60, y=92.00, z=4540.30]
+[18Apr2025 20:54:48.728] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/566250, l='ServerLevel[world]', x=-734.60, y=92.00, z=4540.30]
