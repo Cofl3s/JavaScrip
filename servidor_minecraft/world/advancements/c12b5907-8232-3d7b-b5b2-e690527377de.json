@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-18 18:11:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-04-18 17:26:55 +0000"
@@ -44,6 +50,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
       "has_bow": "2025-04-18 18:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:11:27 +0000"
     },
     "done": true
   },
@@ -80,6 +92,18 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-18 17:34:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-04-18 18:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:11:27 +0000"
     },
     "done": true
   },
@@ -137,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-04-18 17:26:55 +0000"
@@ -158,6 +188,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-04-18 17:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 18:11:24 +0000"
     },
     "done": true
   },
@@ -245,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:11:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 17:27:10 +0000"
@@ -254,6 +296,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
     "criteria": {
       "has_leather": "2025-04-18 17:46:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/spruce_post": {
+    "criteria": {
+      "has_item": "2025-04-18 18:11:24 +0000"
     },
     "done": true
   },
@@ -405,6 +453,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-18 17:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:11:27 +0000"
     },
     "done": true
   },
@@ -613,6 +667,7 @@
       "minecraft:desert": "2025-04-18 17:29:35 +0000",
       "minecraft:beach": "2025-04-18 17:44:21 +0000",
       "minecraft:river": "2025-04-18 17:28:34 +0000",
+      "minecraft:wooded_mountains": "2025-04-18 18:11:20 +0000",
       "minecraft:wooded_hills": "2025-04-18 17:22:25 +0000",
       "minecraft:swamp": "2025-04-18 17:40:45 +0000",
       "minecraft:plains": "2025-04-18 17:32:52 +0000"
@@ -640,6 +695,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/club_wood": {
     "criteria": {
       "has_wood_log": "2025-04-18 17:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 18:11:24 +0000"
     },
     "done": true
   },
@@ -703,6 +764,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-04-18 18:04:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/spear_wood": {
     "criteria": {
       "has_wood": "2025-04-18 17:26:48 +0000"
@@ -754,6 +821,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-18 17:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-18 18:06:04 +0000"
     },
     "done": true
   },
@@ -859,6 +932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:11:27 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-04-18 17:22:25 +0000"
@@ -870,7 +949,8 @@
       "minecraft:pillager": "2025-04-18 17:45:11 +0000",
       "minecraft:skeleton": "2025-04-18 18:02:06 +0000",
       "minecraft:spider": "2025-04-18 17:31:51 +0000",
-      "minecraft:creeper": "2025-04-18 17:32:06 +0000"
+      "minecraft:creeper": "2025-04-18 17:32:06 +0000",
+      "minecraft:husk": "2025-04-18 18:07:01 +0000"
     },
     "done": false
   },
@@ -904,9 +984,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:11:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2025-04-18 17:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:11:27 +0000"
     },
     "done": true
   },
@@ -979,6 +1071,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_stick": "2025-04-18 17:26:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-04-18 18:11:41 +0000"
     },
     "done": true
   },
