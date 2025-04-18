@@ -1195,3 +1195,41 @@ java.lang.NullPointerException: null
 [18Apr2025 20:05:37.518] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.47665078949921735
 [18Apr2025 20:05:37.580] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.6014730578968965
 [18Apr2025 20:05:37.614] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of cofl3s) moved wrongly! 0.703508322620678
+[18Apr2025 20:05:56.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was blown up by cofl3s
+[18Apr2025 20:06:02.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 20:06:06.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[18Apr2025 20:06:34.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[18Apr2025 20:07:31.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 20:08:15.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 20:11:12.241] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1145, y=12, z=2666} but found not block entity block Block{minecraft:stone} at location
+[18Apr2025 20:11:12.241] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1145, y=12, z=2666}
+[18Apr2025 20:11:12.241] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1144, y=12, z=2666} but found not block entity block Block{minecraft:stone} at location
+[18Apr2025 20:11:12.242] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1144, y=12, z=2666}
+[18Apr2025 20:11:12.242] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1142, y=12, z=2663} but found not block entity block Block{minecraft:stone} at location
+[18Apr2025 20:11:12.242] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1142, y=12, z=2663}
+[18Apr2025 20:11:12.242] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1144, y=15, z=2673} but found not block entity block Block{minecraft:dirt} at location
+[18Apr2025 20:11:12.242] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:dirt} but failed at location BlockPos{x=1144, y=15, z=2673}
+[18Apr2025 20:11:12.243] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1139, y=17, z=2678} but found not block entity block Block{minecraft:stone} at location
+[18Apr2025 20:11:12.243] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1139, y=17, z=2678}
+[18Apr2025 20:11:12.306] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1140, y=15, z=2651} but found not block entity block Block{minecraft:oak_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[18Apr2025 20:11:12.306] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:oak_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=1140, y=15, z=2651}
+[18Apr2025 20:13:51.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zzzz
+[18Apr2025 20:14:21.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Superag_Games> www
+[18Apr2025 20:14:59.223] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 20:14:59.278] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 20:14:59.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 20:15:04.569] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3eb506fa
+[18Apr2025 20:15:04.573] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:33911] logged in with entity id 432314 at (720.7761579260161, 97.42677862990485, 3803.443458667523)
+[18Apr2025 20:15:04.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 20:15:08.580] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1133, y=25, z=2575} but found not block entity block Block{minecraft:stone} at location
+[18Apr2025 20:15:08.580] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1133, y=25, z=2575}
+[18Apr2025 20:15:08.580] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1136, y=24, z=2570} but found not block entity block Block{minecraft:stone} at location
+[18Apr2025 20:15:08.580] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1136, y=24, z=2570}
+[18Apr2025 20:15:08.580] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1143, y=23, z=2573} but found not block entity block Block{minecraft:stone} at location
+[18Apr2025 20:15:08.581] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1143, y=23, z=2573}
+[18Apr2025 20:15:08.581] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1151, y=25, z=2569} but found not block entity block Block{minecraft:stone} at location
+[18Apr2025 20:15:08.581] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=1151, y=25, z=2569}
+[18Apr2025 20:15:08.581] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1139, y=23, z=2574} but found not block entity block Block{minecraft:diorite} at location
+[18Apr2025 20:15:08.581] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:diorite} but failed at location BlockPos{x=1139, y=23, z=2574}
+[18Apr2025 20:15:25.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 20:15:43.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
