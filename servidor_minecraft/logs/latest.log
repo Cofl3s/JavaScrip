@@ -650,3 +650,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [18Apr2025 16:41:03.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
 [18Apr2025 16:41:24.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
 [18Apr2025 16:41:59.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [My Name is Nobody]
+[18Apr2025 16:43:48.416] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[18Apr2025 16:43:48.468] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[18Apr2025 16:43:48.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 16:43:53.868] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@74e82e21
+[18Apr2025 16:43:53.876] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:36325] logged in with entity id 45572 at (250.03940103403573, 87.81592046908315, 1051.5246705178627)
+[18Apr2025 16:43:53.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 16:48:30.313] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/52077, l='ServerLevel[world]', x=134.33, y=62.00, z=922.33]
+[18Apr2025 16:48:30.313] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/52077, l='ServerLevel[world]', x=134.33, y=62.00, z=922.33]
+[18Apr2025 16:50:48.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Ice Bucket Challenge]
+[18Apr2025 16:50:56.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Ice Bucket Challenge]
+[18Apr2025 16:51:05.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [Isn't It Iron Pick]
