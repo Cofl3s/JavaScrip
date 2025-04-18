@@ -924,3 +924,112 @@ com.google.gson.JsonSyntaxException: Unknown item 'ancient_guns_mod:fulminant'
 [18Apr2025 18:21:12.816] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@d120f2d
 [18Apr2025 18:21:12.820] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:48851] logged in with entity id 200651 at (654.0956175273122, 88.34066480414555, 1709.5501984780412)
 [18Apr2025 18:21:12.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 18:24:06.419] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[18Apr2025 18:24:06.467] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[18Apr2025 18:24:06.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 18:24:11.119] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1cdcf915
+[18Apr2025 18:24:11.124] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:36875] logged in with entity id 213690 at (717.5715391695319, 89.61237613399906, 1909.5786990781849)
+[18Apr2025 18:24:11.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 18:24:32.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> a
+[18Apr2025 18:25:11.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was turned into KFC by Fire Dragon
+[18Apr2025 18:25:24.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[18Apr2025 18:26:59.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Ice Bucket Challenge]
+[18Apr2025 18:27:14.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[18Apr2025 18:27:26.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[18Apr2025 18:28:03.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported cofl3s to Superag_Games]
+[18Apr2025 18:28:24.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Sea? Not a Problem]
+[18Apr2025 18:29:29.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 has made the advancement [Suit Up]
+[18Apr2025 18:30:59.368] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[18Apr2025 18:30:59.417] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[18Apr2025 18:30:59.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 18:31:05.073] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@997afb
+[18Apr2025 18:31:05.077] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:35213] logged in with entity id 227248 at (299.0766253641265, 118.8057180594598, 2017.0629099523053)
+[18Apr2025 18:31:05.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 18:31:21.465] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 18:31:21.514] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 18:31:21.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 18:31:27.871] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4f119662
+[18Apr2025 18:31:27.877] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:41373] logged in with entity id 228319 at (288.6902243140791, 201.1477044948081, 1971.1911837115981)
+[18Apr2025 18:31:27.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 18:31:33.478] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[18Apr2025 18:31:33.526] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[18Apr2025 18:31:33.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 18:31:37.821] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d9911e0
+[18Apr2025 18:31:37.826] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:45763] logged in with entity id 229185 at (237.38938735033406, 81.60113659677964, 1982.4521591270914)
+[18Apr2025 18:31:37.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 18:31:42.021] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 18:31:42.071] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 18:31:42.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 18:31:47.866] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[18Apr2025 18:31:47.916] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[18Apr2025 18:31:47.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 18:31:47.979] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1aa0dffc
+[18Apr2025 18:31:47.984] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:43943] logged in with entity id 229731 at (286.80547521294915, 162.29371289264384, 1987.203680396271)
+[18Apr2025 18:31:47.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 18:31:47.989] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity MarineWithGunEntity['Marine with Gun'/229715, l='ServerLevel[world]', x=290.70, y=68.00, z=1933.51]
+[18Apr2025 18:31:47.989] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity MarineWithGunEntity['Marine with Gun'/229706, l='ServerLevel[world]', x=288.70, y=68.00, z=1928.90]
+[18Apr2025 18:31:53.523] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@785d55f2
+[18Apr2025 18:31:53.527] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:48657] logged in with entity id 229887 at (205.59385848535914, 72.21515084135692, 1977.62348768178)
+[18Apr2025 18:31:53.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[18Apr2025 18:31:54.069] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 18:31:54.096] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 18:31:54.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 18:32:00.124] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@27d3d92a
+[18Apr2025 18:32:00.129] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:47355] logged in with entity id 230257 at (265.3428316637775, 113.57040536420075, 2004.6081072780164)
+[18Apr2025 18:32:00.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 18:32:16.175] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/230884, l='ServerLevel[world]', x=140.70, y=48.40, z=1897.41]
+[18Apr2025 18:32:16.175] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/230885, l='ServerLevel[world]', x=138.48, y=48.63, z=1897.62]
+[18Apr2025 18:32:16.175] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/230888, l='ServerLevel[world]', x=141.68, y=49.36, z=1900.62]
+[18Apr2025 18:32:16.176] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/230890, l='ServerLevel[world]', x=142.70, y=51.33, z=1900.59]
+[18Apr2025 18:32:16.176] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/230891, l='ServerLevel[world]', x=141.73, y=50.31, z=1897.35]
+[18Apr2025 18:32:16.176] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/230892, l='ServerLevel[world]', x=138.36, y=48.26, z=1898.44]
+[18Apr2025 18:32:16.483] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/230905, l='ServerLevel[world]', x=136.38, y=48.28, z=1897.64]
+[18Apr2025 18:32:16.484] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cut Sandstone'/230906, l='ServerLevel[world]', x=138.28, y=53.43, z=1895.41]
+[18Apr2025 18:32:16.484] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Chiseled Sandstone'/230907, l='ServerLevel[world]', x=138.51, y=54.68, z=1895.67]
+[18Apr2025 18:32:16.484] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/230908, l='ServerLevel[world]', x=140.27, y=49.61, z=1896.73]
+[18Apr2025 18:32:16.484] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/230909, l='ServerLevel[world]', x=136.54, y=49.52, z=1896.74]
+[18Apr2025 18:32:36.267] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 18:32:36.322] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 18:32:36.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 18:32:39.770] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Disconnected
+[18Apr2025 18:32:39.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[18Apr2025 18:32:42.217] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6efd37cb
+[18Apr2025 18:32:42.222] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:58375] logged in with entity id 232463 at (305.34646654064943, 137.42076328037763, 2006.6408907450386)
+[18Apr2025 18:32:42.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 18:32:48.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was blown up by Death Worm
+[18Apr2025 18:32:48.366] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 18:32:48.415] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 18:32:48.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 18:32:52.404] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 was kicked for floating too long!
+[18Apr2025 18:32:52.453] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Flying is not enabled on this server
+[18Apr2025 18:32:52.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[18Apr2025 18:32:54.256] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1fa69a6d
+[18Apr2025 18:32:54.260] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:36787] logged in with entity id 233260 at (310.2844651557205, 79.8235346307029, 2023.9263605975918)
+[18Apr2025 18:32:54.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 18:33:02.264] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6fd13ca6
+[18Apr2025 18:33:02.267] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:58281] logged in with entity id 233886 at (310.1256269316417, 118.1250871384341, 2009.6698788657718)
+[18Apr2025 18:33:02.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[18Apr2025 18:33:08.964] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 was kicked for floating too long!
+[18Apr2025 18:33:09.013] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Flying is not enabled on this server
+[18Apr2025 18:33:09.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[18Apr2025 18:33:14.562] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@54b5217d
+[18Apr2025 18:33:14.565] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:51471] logged in with entity id 234354 at (310.1256269316417, 104.87392297556522, 2009.6698788657718)
+[18Apr2025 18:33:14.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[18Apr2025 18:33:35.216] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 18:33:35.268] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 18:33:35.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 18:33:40.563] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2d9835ac
+[18Apr2025 18:33:40.567] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:45125] logged in with entity id 236141 at (294.3459536036741, 89.47487499609637, 1987.4529479405612)
+[18Apr2025 18:33:40.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 18:33:46.517] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 18:33:46.566] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 18:33:46.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 18:33:51.866] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3502cee0
+[18Apr2025 18:33:51.870] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:53911] logged in with entity id 237460 at (303.38833568260486, 189.45583067407304, 1990.8523165306349)
+[18Apr2025 18:33:51.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[18Apr2025 18:33:57.918] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[18Apr2025 18:33:57.966] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[18Apr2025 18:33:57.966] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[18Apr2025 18:34:03.466] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4bb13ff
+[18Apr2025 18:34:03.470] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:54123] logged in with entity id 238303 at (300.3693848182276, 110.06575298261905, 2028.7406743385075)
+[18Apr2025 18:34:03.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game

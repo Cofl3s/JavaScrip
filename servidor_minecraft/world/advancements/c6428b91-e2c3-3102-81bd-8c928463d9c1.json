@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/throwing_knife_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-18 05:47:28 +0000"
@@ -56,6 +62,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:48:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/longsword_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
     },
     "done": true
   },
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-18 18:26:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-18 16:50:32 +0000"
@@ -209,9 +227,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 18:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-04-18 17:03:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/boomerang_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
     },
     "done": true
   },
@@ -224,6 +254,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-18 05:41:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/flanged_mace_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
     },
     "done": true
   },
@@ -287,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 18:32:09 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-04-18 05:35:12 +0000"
@@ -344,6 +386,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/dagger_wood": {
     "criteria": {
       "has_wood": "2025-04-18 05:38:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/pike_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/warhammer_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
     },
     "done": true
   },
@@ -440,6 +494,12 @@
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-18 06:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2025-04-18 18:25:10 +0000"
     },
     "done": true
   },
@@ -550,6 +610,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/halberd_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-04-18 05:49:57 +0000"
@@ -583,6 +649,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-04-18 06:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 18:32:30 +0000"
     },
     "done": true
   },
@@ -694,6 +766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-18 18:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-18 06:16:25 +0000"
@@ -721,6 +799,12 @@
   "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
       "killed_fire_dragon": "2025-04-18 17:37:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/greatsword_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
     },
     "done": true
   },
@@ -760,9 +844,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/tomahawk_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:25:10 +0000"
     },
     "done": true
   },
@@ -811,6 +907,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_wood": {
     "criteria": {
       "has_bow": "2025-04-18 06:06:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/dagger_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
     },
     "done": true
   },
@@ -970,6 +1072,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 18:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:25:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-04-18 05:39:21 +0000"
@@ -1009,6 +1123,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-18 05:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 18:32:30 +0000"
     },
     "done": true
   },
@@ -1076,6 +1196,7 @@
       "minecraft:birch_forest_hills": "2025-04-18 16:57:56 +0000",
       "minecraft:wooded_mountains": "2025-04-18 17:02:23 +0000",
       "minecraft:wooded_hills": "2025-04-18 05:35:12 +0000",
+      "minecraft:stone_shore": "2025-04-18 18:23:20 +0000",
       "minecraft:plains": "2025-04-18 05:35:21 +0000"
     },
     "done": false
@@ -1188,6 +1309,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/battleaxe_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longbow_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:48:16 +0000"
@@ -1215,6 +1342,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 18:32:09 +0000"
     },
     "done": true
   },
@@ -1284,6 +1417,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/lance_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-18 05:41:28 +0000"
@@ -1320,6 +1459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 18:32:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 05:41:28 +0000"
@@ -1335,6 +1480,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/javelin_wood": {
     "criteria": {
       "has_wood": "2025-04-18 05:38:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/orange_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-18 18:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:25:10 +0000"
     },
     "done": true
   },
@@ -1470,6 +1627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 18:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 16:51:32 +0000"
@@ -1535,6 +1698,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/scythe_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-04-18 06:16:25 +0000"
@@ -1559,15 +1728,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 18:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-04-18 16:33:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-18 18:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-18 06:09:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/parrying_dagger_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
     },
     "done": true
   },
@@ -1643,9 +1836,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 18:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-18 18:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-04-18 18:32:09 +0000"
     },
     "done": true
   },
@@ -1682,6 +1887,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-04-18 18:32:12 +0000"
     },
     "done": true
   },
@@ -1763,6 +1974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 18:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-18 16:50:56 +0000"
@@ -1796,6 +2013,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-04-18 06:12:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/spear_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
     },
     "done": true
   },
@@ -1838,6 +2061,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pike_wood": {
     "criteria": {
       "has_wood": "2025-04-18 05:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-04-18 18:32:30 +0000"
     },
     "done": true
   },
@@ -1889,6 +2118,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:25:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/saber_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-18 17:03:13 +0000"
@@ -1904,6 +2145,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-04-18 06:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 18:32:30 +0000"
     },
     "done": true
   },
@@ -1925,6 +2172,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 18:32:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/quarterstaff_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-18 05:35:56 +0000"
@@ -1940,6 +2205,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 16:26:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/katana_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
     },
     "done": true
   },
@@ -1988,6 +2259,18 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-04-18 06:09:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/rapier_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/hammer_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
     },
     "done": true
   },
@@ -2075,6 +2358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-18 18:32:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 05:41:28 +0000"
@@ -2117,9 +2406,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/javelin_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 16:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 18:32:09 +0000"
     },
     "done": true
   },
@@ -2141,6 +2442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 18:32:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-18 05:35:58 +0000"
@@ -2150,6 +2457,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-18 05:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-18 18:32:09 +0000"
     },
     "done": true
   },
@@ -2279,6 +2592,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/longbow_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_wood": {
     "criteria": {
       "has_wood": "2025-04-18 05:38:33 +0000"
@@ -2303,6 +2622,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/glaive_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-04-18 06:10:21 +0000"
@@ -2312,6 +2637,12 @@
   "mineminenomi:recipes/combat/medic_bag": {
     "criteria": {
       "has_leather": "2025-04-18 05:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:25:10 +0000"
     },
     "done": true
   },
@@ -2387,6 +2718,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-04-18 18:32:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_orange_glazed_jar": {
+    "criteria": {
+      "has_item": "2025-04-18 18:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:25:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 16:51:32 +0000"
@@ -2420,6 +2769,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-04-18 05:57:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_silver": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-18 18:32:15 +0000"
     },
     "done": true
   },

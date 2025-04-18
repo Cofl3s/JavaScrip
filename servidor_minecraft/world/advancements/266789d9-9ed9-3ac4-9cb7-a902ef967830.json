@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-18 18:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:47:28 +0000"
@@ -545,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-18 06:07:00 +0000"
@@ -748,9 +760,21 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/subtle_tweaks": {
+    "criteria": {
+      "subtle_tweaks": "2025-04-18 18:23:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-04-18 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:24:04 +0000"
     },
     "done": true
   },
@@ -1048,6 +1072,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-18 18:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2025-04-18 05:38:45 +0000"
@@ -1136,6 +1166,7 @@
       "minecraft:birch_forest_hills": "2025-04-18 16:58:04 +0000",
       "minecraft:wooded_mountains": "2025-04-18 17:05:07 +0000",
       "minecraft:wooded_hills": "2025-04-18 05:35:27 +0000",
+      "minecraft:stone_shore": "2025-04-18 18:23:02 +0000",
       "minecraft:swamp": "2025-04-18 17:46:08 +0000",
       "minecraft:plains": "2025-04-18 05:38:07 +0000"
     },
@@ -1625,6 +1656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:24:04 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:recipes/combat/clima_tact": {
     "criteria": {
       "has_lapis": "2025-04-18 06:14:08 +0000"
@@ -1652,6 +1689,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2025-04-18 18:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:24:04 +0000"
     },
     "done": true
   },
@@ -2063,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-18 18:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-18 05:40:41 +0000"
@@ -2261,6 +2310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-18 18:24:04 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/valhelsia_structures_main/spruce_post": {
     "criteria": {
       "has_item": "2025-04-18 06:06:30 +0000"
@@ -2366,6 +2421,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-18 05:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:24:04 +0000"
     },
     "done": true
   },
@@ -2495,6 +2556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-04-18 05:47:28 +0000"
@@ -2531,6 +2598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:24:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_wood": {
     "criteria": {
       "has_wood": "2025-04-18 05:38:45 +0000"
@@ -2546,6 +2619,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-18 16:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 18:24:04 +0000"
     },
     "done": true
   },
