@@ -99,3 +99,8 @@
 [19Apr2025 01:49:13.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
 [19Apr2025 01:49:15.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
 [19Apr2025 02:08:13.157] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/1000371, l='ServerLevel[world]', x=2891.50, y=64.05, z=8886.50] died, message: 'Librarian tried to swim in lava'
+[19Apr2025 02:19:00.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[19Apr2025 02:19:37.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[19Apr2025 02:19:44.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[19Apr2025 02:20:28.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[19Apr2025 02:20:36.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
