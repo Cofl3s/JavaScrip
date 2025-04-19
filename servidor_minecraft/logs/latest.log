@@ -69,3 +69,12 @@
 [19Apr2025 00:47:21.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
 [19Apr2025 00:48:21.520] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/969791, l='ServerLevel[world]', x=2963.54, y=65.00, z=8891.47]
 [19Apr2025 00:48:55.062] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/970334, l='ServerLevel[world]', x=3005.42, y=63.00, z=8880.42]
+[19Apr2025 00:54:28.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 was killed by Marine Sniper
+[19Apr2025 00:54:38.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[19Apr2025 00:55:05.158] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/910139, l='ServerLevel[world]', x=2894.65, y=64.56, z=8866.57] died, message: 'Villager was slain by Bandit Brute'
+[19Apr2025 00:55:51.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[19Apr2025 00:55:52.409] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/938144, l='ServerLevel[world]', x=2894.76, y=64.00, z=8886.25] died, message: 'Librarian was slain by Bandit Brute'
+[19Apr2025 00:55:52.410] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/870907, l='ServerLevel[world]', x=2897.54, y=64.00, z=8884.46] died, message: 'Fletcher was slain by Bandit Brute'
+[19Apr2025 00:55:52.410] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/870882, l='ServerLevel[world]', x=2897.53, y=64.00, z=8886.48] died, message: 'Fletcher was slain by Bandit Brute'
+[19Apr2025 00:56:16.408] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/870910, l='ServerLevel[world]', x=2891.55, y=64.00, z=8888.53] died, message: 'Librarian was slain by Bandit Brute'
+[19Apr2025 00:58:30.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set the time to 1000]
