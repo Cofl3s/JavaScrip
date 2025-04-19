@@ -14,3 +14,26 @@
 [19Apr2025 00:02:44.928] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:57615] logged in with entity id 925168 at (2911.7259346935725, 69.7195795350417, 8841.25277213484)
 [19Apr2025 00:02:44.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
 [19Apr2025 00:05:38.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [A Seedy Place]
+[19Apr2025 00:11:46.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games has made the advancement [What a Deal!]
+[19Apr2025 00:12:02.716] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Disconnected
+[19Apr2025 00:12:02.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[19Apr2025 00:12:21.126] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@20cb8e22
+[19Apr2025 00:12:21.132] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:37271] logged in with entity id 934518 at (2894.5, 64.5625, 8874.5)
+[19Apr2025 00:12:21.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[19Apr2025 00:12:35.515] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Disconnected
+[19Apr2025 00:12:35.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[19Apr2025 00:12:36.265] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[19Apr2025 00:12:36.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[19Apr2025 00:13:31.467] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@75d373b9
+[19Apr2025 00:13:31.470] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:43367] logged in with entity id 935115 at (2911.0930042659356, 68.0, 8868.63910257024)
+[19Apr2025 00:13:31.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[19Apr2025 00:13:39.622] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@56b37861
+[19Apr2025 00:13:39.627] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:56015] logged in with entity id 935204 at (2894.2776632573677, 64.98249998688698, 8872.386894819787)
+[19Apr2025 00:13:39.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[19Apr2025 00:13:54.713] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[19Apr2025 00:13:54.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[19Apr2025 00:14:20.970] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5fff7021
+[19Apr2025 00:14:20.974] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:54359] logged in with entity id 935764 at (2894.2776632573677, 64.98249998688698, 8872.386894819787)
+[19Apr2025 00:14:20.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[19Apr2025 00:14:36.069] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Timed out
+[19Apr2025 00:14:36.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
