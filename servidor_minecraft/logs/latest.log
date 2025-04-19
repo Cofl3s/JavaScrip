@@ -60,3 +60,12 @@
 [19Apr2025 00:29:44.765] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5d38aff3
 [19Apr2025 00:29:44.768] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Naifu2401[/127.179.213.65:58693] logged in with entity id 953439 at (2836.5902233600136, 72.16610926093821, 9169.237070900173)
 [19Apr2025 00:29:44.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 joined the game
+[19Apr2025 00:46:22.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Teleported Naifu2401 to Superag_Games]
+[19Apr2025 00:47:15.869] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[19Apr2025 00:47:15.925] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[19Apr2025 00:47:15.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[19Apr2025 00:47:21.018] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8d5721b
+[19Apr2025 00:47:21.022] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:41677] logged in with entity id 968731 at (2890.2057253998782, 80.51061208518387, 8873.455760252738)
+[19Apr2025 00:47:21.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[19Apr2025 00:48:21.520] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/969791, l='ServerLevel[world]', x=2963.54, y=65.00, z=8891.47]
+[19Apr2025 00:48:55.062] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/970334, l='ServerLevel[world]', x=3005.42, y=63.00, z=8880.42]
