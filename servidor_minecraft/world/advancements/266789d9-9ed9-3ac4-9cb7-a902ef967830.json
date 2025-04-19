@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "mineminenomi:recipes/food/cola": {
+    "criteria": {
+      "has_sugar": "2025-04-19 03:30:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-04-18 16:27:11 +0000"
@@ -1473,6 +1479,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/katana_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 18:09:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2025-04-19 03:34:08 +0000"
     },
     "done": true
   },
@@ -2874,6 +2886,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
     "criteria": {
       "has_stick": "2025-04-18 05:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 03:38:06 +0000"
     },
     "done": true
   },

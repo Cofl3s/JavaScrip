@@ -122,3 +122,15 @@
 [19Apr2025 03:31:27.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
 [19Apr2025 03:31:49.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
 [19Apr2025 03:32:12.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[19Apr2025 03:34:08.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s has made the advancement [Halberdier]
+[19Apr2025 03:34:59.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[19Apr2025 03:35:09.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[19Apr2025 03:38:14.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[19Apr2025 03:38:21.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[19Apr2025 03:41:23.967] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[19Apr2025 03:41:24.014] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[19Apr2025 03:41:24.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[19Apr2025 03:41:28.966] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@23e4e95c
+[19Apr2025 03:41:28.970] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:49503] logged in with entity id 1066674 at (2901.2260298976307, 78.0640732161097, 8860.220071936863)
+[19Apr2025 03:41:28.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[19Apr2025 03:42:05.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zzz
