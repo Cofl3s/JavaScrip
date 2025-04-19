@@ -78,3 +78,6 @@
 [19Apr2025 00:55:52.410] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/870882, l='ServerLevel[world]', x=2897.53, y=64.00, z=8886.48] died, message: 'Fletcher was slain by Bandit Brute'
 [19Apr2025 00:56:16.408] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/870910, l='ServerLevel[world]', x=2891.55, y=64.00, z=8888.53] died, message: 'Librarian was slain by Bandit Brute'
 [19Apr2025 00:58:30.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set the time to 1000]
+[19Apr2025 01:01:00.914] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Disconnected
+[19Apr2025 01:01:00.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
+[19Apr2025 01:10:07.809] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/984492, l='ServerLevel[world]', x=2854.47, y=60.80, z=8895.38]
