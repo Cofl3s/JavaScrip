@@ -2530,6 +2530,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/priceless_blade": {
+    "criteria": {
+      "obtain_murakumogiri": "2025-04-19 02:55:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_gold": {
     "criteria": {
       "has_gold_ingot": "2025-04-18 16:51:32 +0000"
