@@ -142,3 +142,24 @@
 [19Apr2025 03:52:00.523] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@38f59ab2
 [19Apr2025 03:52:00.528] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:47131] logged in with entity id 1074166 at (2890.1161748043332, 74.73963863632903, 8877.508426775647)
 [19Apr2025 03:52:00.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[19Apr2025 03:52:47.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[19Apr2025 03:53:00.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[19Apr2025 03:53:04.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <cofl3s> zzz
+[19Apr2025 03:53:16.764] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s was kicked for floating too long!
+[19Apr2025 03:53:16.817] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cofl3s lost connection: Flying is not enabled on this server
+[19Apr2025 03:53:16.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s left the game
+[19Apr2025 03:53:21.819] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@56edd527
+[19Apr2025 03:53:21.823] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cofl3s[/127.116.130.138:45607] logged in with entity id 1075882 at (2898.0504254447205, 71.07870751215252, 8827.893893956814)
+[19Apr2025 03:53:21.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cofl3s joined the game
+[19Apr2025 03:56:08.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[19Apr2025 03:56:19.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[19Apr2025 03:56:30.971] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games was kicked for floating too long!
+[19Apr2025 03:56:31.021] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Superag_Games lost connection: Flying is not enabled on this server
+[19Apr2025 03:56:31.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games left the game
+[19Apr2025 03:56:35.266] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7d7f5354
+[19Apr2025 03:56:35.270] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Superag_Games[/127.118.103.103:47083] logged in with entity id 1079693 at (2575.44056624855, 70.88613884955109, 8790.964349107879)
+[19Apr2025 03:56:35.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Superag_Games joined the game
+[19Apr2025 03:58:46.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[19Apr2025 03:59:07.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[19Apr2025 04:00:09.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[19Apr2025 04:00:55.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
