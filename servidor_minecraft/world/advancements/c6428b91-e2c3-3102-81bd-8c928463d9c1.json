@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-19 03:17:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2025-04-18 22:18:35 +0000"
@@ -842,6 +848,12 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-04-18 22:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-19 03:17:12 +0000"
     },
     "done": true
   },
@@ -1421,6 +1433,12 @@
     },
     "done": true
   },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2025-04-19 03:11:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-04-18 23:24:43 +0000"
@@ -1648,6 +1666,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-04-18 21:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-04-19 03:17:12 +0000"
     },
     "done": true
   },
@@ -2101,6 +2125,12 @@
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-04-18 16:32:37 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/combat/clima_tact": {
+    "criteria": {
+      "has_lapis": "2025-04-19 03:17:12 +0000"
     },
     "done": true
   },
