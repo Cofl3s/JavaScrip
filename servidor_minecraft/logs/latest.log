@@ -81,3 +81,4 @@
 [19Apr2025 01:01:00.914] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Naifu2401 lost connection: Disconnected
 [19Apr2025 01:01:00.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Naifu2401 left the game
 [19Apr2025 01:10:07.809] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dark Soul'/984492, l='ServerLevel[world]', x=2854.47, y=60.80, z=8895.38]
+[19Apr2025 01:15:25.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
