@@ -96,3 +96,5 @@
 [19Apr2025 01:39:01.711] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/870820, l='ServerLevel[world]', x=2891.70, y=64.00, z=8886.65] died, message: 'Librarian was slain by Pirate Brute'
 [19Apr2025 01:39:01.711] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/978770, l='ServerLevel[world]', x=2891.50, y=64.00, z=8888.50] died, message: 'Librarian was slain by Pirate Brute'
 [19Apr2025 01:39:15.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
+[19Apr2025 01:49:13.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Survival Mode]
+[19Apr2025 01:49:15.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Superag_Games: Set own game mode to Creative Mode]
